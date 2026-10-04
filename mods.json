@@ -1,0 +1,96 @@
+{
+    "build":  "20261004161817",
+    "type":  "mods",
+    "minecraft":  "1.21.1",
+    "baseUrl":  "https://www.myarena.ru/home.php?m=gamevds\u0026p=ftp\u0026home=128890\u0026path=%2Fmods/mods/",
+    "mode":  "strict",
+    "allowedExtra":  [
+
+                     ],
+    "files":  [
+                  {
+                      "file":  "cloth-config-15.0.140-fabric-1.21.1.jar",
+                      "sha1":  "5d82342a2df53fd6df712bfdd583a811572918a4",
+                      "size":  1157166,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "craftedcore-5.8.2-1.21.1-fabric.jar",
+                      "sha1":  "98e92d6d093b8af7c1119026404721500b8a08a3",
+                      "size":  785306,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "entity_model_features-3.3.9-1.21-fabric.jar",
+                      "sha1":  "5071631eaba8866e0eb323e5145375e7aaa3a157",
+                      "size":  639152,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "entity_texture_features-7.2.5-1.21-fabric.jar",
+                      "sha1":  "726958e34edf7b424d7254d73d214caeedd15737",
+                      "size":  799948,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "fabric-api-0.116.17-1.21.1 (1).jar",
+                      "sha1":  "810b2b0195371a012906241d8b85a32a1d6de53c",
+                      "size":  2452735,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "geckolib-fabric-1.21.1-4.9.3.jar",
+                      "sha1":  "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
+                      "size":  664463,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "HMI-4.3-1.21.1.jar",
+                      "sha1":  "19ff289fa00d338092458265f3ed24a92a9ada5f",
+                      "size":  105906,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "jvs-fabric-1.21.1-0.2.2.jar",
+                      "sha1":  "d0b2a83453cc3145307f59a5f88971a891515aa6",
+                      "size":  930963,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "lambdynamiclights-4.8.11-1.21.1 (1).jar",
+                      "sha1":  "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+                      "size":  2023375,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "modmenu-11.0.5-1.21.1.jar",
+                      "sha1":  "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
+                      "size":  975846,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "naturalist-2.0.5-fabric-1.21.1.jar",
+                      "sha1":  "1601db1e4ad2d54484f59c8410d813debcb629b2",
+                      "size":  11256494,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "skinshifter-1.3-1.21-fabric.jar",
+                      "sha1":  "3ae09e0d84eea23f14842a52d6205fcbcb2fbc3f",
+                      "size":  30720,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "WI-Zoom-1.7-MC1.21.1.jar",
+                      "sha1":  "aa9e7b190b7dfc6b468767efb1db2ba857c3d907",
+                      "size":  166677,
+                      "side":  "both"
+                  },
+                  {
+                      "file":  "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+                      "sha1":  "e075503382f70715ab9fc6f66d603397a86eb3e0",
+                      "size":  1131265,
+                      "side":  "both"
+                  }
+              ]
+}
