@@ -24,7 +24,7 @@ for name in sorted(os.listdir(folder)):
 
 manifest = {
     "type": kind,
-    "minecraft": old.get("minecraft", "1.20.1"),
+    "minecraft": old.get("minecraft", "1.21.1"),
     "baseUrl": old.get("baseUrl",
         f"https://raw.githubusercontent.com/{repo}/main/{folder}/"),
     "mode": old.get("mode", "additive"),
