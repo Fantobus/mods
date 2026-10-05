@@ -69,6 +69,13 @@
       "stamp": "2026-10-05T13:02:34Z"
     },
     {
+      "file": "iris-fabric-1.8.8-mc1.21.1.jar",
+      "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
+      "size": 2690177,
+      "side": "both",
+      "stamp": "2026-10-05T14:39:35Z"
+    },
+    {
       "file": "jvs-fabric-1.21.1-0.2.2.jar",
       "sha1": "d0b2a83453cc3145307f59a5f88971a891515aa6",
       "size": 930963,
@@ -109,6 +116,13 @@
       "size": 30720,
       "side": "both",
       "stamp": "2026-10-05T13:02:39Z"
+    },
+    {
+      "file": "sodium-fabric-0.6.13_mc1.21.1.jar",
+      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+      "size": 1297761,
+      "side": "both",
+      "stamp": "2026-10-05T14:39:36Z"
     },
     {
       "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
