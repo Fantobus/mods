@@ -64,36 +64,3 @@ manifest = {
 with open(out, "w", encoding="utf-8") as f:
     json.dump(manifest, f, indent=2, ensure_ascii=False)
     f.write("\n")
-
-Поля stamp у маніфесті лаунчер ігнорує.
-
-Крок 3. Новий workflow
-
-Замініть вміст .github/workflows/manifest.yml:
-
-yaml
-name: Update manifest
-on:
-  workflow_dispatch:
-  release:
-    types: [published, edited]
-  schedule:
-    - cron: "*/30 * * * *"
-permissions:
-  contents: write
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - run: python3 tools/generate_release.py mods .jar mods.json Fantobus/mods files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add mods.json
-          git diff --cached --quiet || git commit -m "Auto-update mods.json"
-          git push
