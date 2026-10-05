@@ -55,7 +55,7 @@ files.sort(key=lambda x: x["file"])
 manifest = {
     "type": kind,
     "minecraft": old.get("minecraft", "1.21.1"),
-    "baseUrl": old.get("baseUrl", f"https://github.com/{repo}/releases/download/{tag}/"),
+    "baseUrl": old.get("baseUrl", f"https://github.com/{repo}/releases/{tag}/"),
     "mode": old.get("mode", "additive"),
     "allowedExtra": old.get("allowedExtra", []),
     "files": files,
