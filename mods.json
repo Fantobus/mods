@@ -1,7 +1,7 @@
 {
   "type": "mods",
   "minecraft": "1.21.1",
-  "baseUrl": "https://github.com/Fantobus/mods/releases/files",
+  "baseUrl": "https://github.com/Fantobus/mods/releases/tag/files",
   "mode": "additive",
   "allowedExtra": [],
   "files": [
