@@ -48,18 +48,11 @@
       "stamp": "2026-10-05T13:02:43Z"
     },
     {
-      "file": "fabric-api-0.116.17-1.21.1.1.jar",
-      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
-      "size": 2452735,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:43Z"
-    },
-    {
       "file": "fabric-api-0.116.17-1.21.1.jar",
       "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
       "size": 2452735,
       "side": "both",
-      "stamp": "2026-10-05T13:02:33Z"
+      "stamp": "2026-10-05T14:51:18Z"
     },
     {
       "file": "geckolib-fabric-1.21.1-4.9.3.jar",
