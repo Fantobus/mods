@@ -1,9 +1,10 @@
 name: Update manifest
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ["mods/*.jar"]
+  release:
+    types: [published, edited]
+  schedule:
+    - cron: "*/30 * * * *"
 permissions:
   contents: write
 jobs:
@@ -11,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tools/generate.py mods . .jar mods.json Fantobus/mods
+        with:
+          ref: main
+      - run: python3 tools/generate_release.py mods .jar mods.json Fantobus/mods files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
