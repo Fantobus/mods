@@ -356,13 +356,6 @@
       "stamp": "2026-10-06T15:15:47Z"
     },
     {
-      "file": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
-      "sha1": "ff2be016b12128fc0cd875a21a307d681edde817",
-      "size": 342770,
-      "side": "both",
-      "stamp": "2026-10-06T15:15:47Z"
-    },
-    {
       "file": "ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
       "sha1": "023805be7d701b9769e987449d217c557de5f848",
       "size": 340166,
@@ -1091,13 +1084,6 @@
       "stamp": "2026-10-06T15:13:38Z"
     },
     {
-      "file": "cloth-config-15.0.140-fabric-1.21.1.jar",
-      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
-      "size": 1157166,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:41Z"
-    },
-    {
       "file": "cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
       "size": 1157166,
@@ -1266,25 +1252,11 @@
       "stamp": "2026-10-05T13:02:42Z"
     },
     {
-      "file": "entity_model_features_1.21-fabric-3.0.1.jar",
-      "sha1": "ebbb0bbfd426906c426b6c896c70d18644e2a5e9",
-      "size": 471488,
-      "side": "both",
-      "stamp": "2026-10-06T15:14:33Z"
-    },
-    {
       "file": "entity_texture_features-7.2.5-1.21-fabric.jar",
       "sha1": "726958e34edf7b424d7254d73d214caeedd15737",
       "size": 799948,
       "side": "both",
       "stamp": "2026-10-05T13:02:43Z"
-    },
-    {
-      "file": "entity_texture_features_1.21-fabric-7.0.2.jar",
-      "sha1": "7c595765bd95f9bc4edbbef5070637f568e68924",
-      "size": 697674,
-      "side": "both",
-      "stamp": "2026-10-06T15:14:34Z"
     },
     {
       "file": "entityculling-fabric-1.10.1-mc1.21.1.jar",
@@ -1523,13 +1495,6 @@
       "size": 653722,
       "side": "both",
       "stamp": "2026-10-06T15:15:36Z"
-    },
-    {
-      "file": "geckolib-fabric-1.21.1-4.9.3.jar",
-      "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
-      "size": 664463,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:34Z"
     },
     {
       "file": "glow_up-fabric-1.2.1-1.21-1.21.1-fabric.jar",
@@ -2134,13 +2099,6 @@
       "stamp": "2026-10-06T15:17:12Z"
     },
     {
-      "file": "ropeworks-1.0.3-1.21.1-fabric.jar",
-      "sha1": "84d0f6135b5aba3b03295f084ae9ddf003860032",
-      "size": 304986,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:39Z"
-    },
-    {
       "file": "sawmill-1.21-1.7.2-fabric.jar",
       "sha1": "c00049aeac7b51a1e6468a6260b1f141abc66c8b",
       "size": 520182,
@@ -2160,13 +2118,6 @@
       "size": 1970159,
       "side": "both",
       "stamp": "2026-10-06T15:17:17Z"
-    },
-    {
-      "file": "skinshifter-1.3-1.21-fabric.jar",
-      "sha1": "3ae09e0d84eea23f14842a52d6205fcbcb2fbc3f",
-      "size": 30720,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:39Z"
     },
     {
       "file": "smarterfarmers-1.21-2.2.4-fabric.jar",
