@@ -2190,11 +2190,11 @@
       "stamp": "2026-10-06T15:17:18Z"
     },
     {
-      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
-      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
-      "size": 1297761,
+      "file": "sodium-fabric-0.6.5+mc1.21.1.jar",
+      "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
+      "size": 1289453,
       "side": "both",
-      "stamp": "2026-10-06T15:43:34Z"
+      "stamp": "2026-10-06T15:56:29Z"
     },
     {
       "file": "sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
