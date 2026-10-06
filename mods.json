@@ -6,2440 +6,2447 @@
   "allowedExtra": [],
   "files": [
     {
+      "file": "1.21.1-Fabric.Hybrid.Aquatic.1.5.5.jar",
+      "sha1": "9fcf8a6f09dfcf2533a956e6720cae64b3e60c24",
+      "size": 3404741,
+      "side": "both",
+      "stamp": "2026-10-06T18:23:30Z"
+    },
+    {
       "file": "AdvancedLootInfo-fabric-1.21.1-1.10.0.jar",
       "sha1": "3a0c95a747fd006c59036f45b55e685a06672318",
       "size": 760556,
       "side": "both",
-      "stamp": "2026-10-06T15:10:07Z"
+      "stamp": "2026-10-06T17:26:20Z"
     },
     {
       "file": "AetherVillages-1.21.1-1.0.8-fabric.jar",
       "sha1": "8b1c44a35a31c80948f912bd62128c3bc842b1a8",
       "size": 648400,
       "side": "both",
-      "stamp": "2026-10-06T15:10:16Z"
+      "stamp": "2026-10-06T17:29:27Z"
     },
     {
       "file": "Almanac-1.21.1-2-fabric-1.5.2.jar",
       "sha1": "f259ee1c7b7e4d9c4abd59cc38e200cb1766ef3b",
       "size": 1039789,
       "side": "both",
-      "stamp": "2026-10-06T15:10:16Z"
+      "stamp": "2026-10-06T17:29:30Z"
     },
     {
       "file": "Audio.Improvements.v1.1.-.Fabric.1.20.5-1.21.3.jar",
       "sha1": "f468323a82bd8d17165a2e3e32dec40c1fb1069c",
       "size": 61171,
       "side": "both",
-      "stamp": "2026-10-06T15:10:21Z"
+      "stamp": "2026-10-06T17:29:46Z"
     },
     {
       "file": "AureljPaintings-1.0.5-1.21.x-fabric.jar",
       "sha1": "12449a69df684dbaad194870afbca09010b79581",
       "size": 110728,
       "side": "both",
-      "stamp": "2026-10-06T15:10:22Z"
+      "stamp": "2026-10-06T17:29:46Z"
     },
     {
       "file": "BHMenu-Fabric-1.21-2.5.3.jar",
       "sha1": "04a54517ec822d24b4307a29454714717cfc4af1",
       "size": 186075,
       "side": "both",
-      "stamp": "2026-10-06T15:12:52Z"
+      "stamp": "2026-10-06T17:37:08Z"
     },
     {
       "file": "BOMD-1.10.2-1.21.1.jar",
       "sha1": "98d20fba57e2ecbf309e15285449cb91eee19bda",
       "size": 2679483,
       "side": "both",
-      "stamp": "2026-10-06T15:13:14Z"
+      "stamp": "2026-10-06T17:39:04Z"
     },
     {
       "file": "BadOptimizations-2.4.1-1.21.1.jar",
       "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
       "size": 283566,
       "side": "both",
-      "stamp": "2026-10-06T15:10:22Z"
+      "stamp": "2026-10-06T17:29:47Z"
     },
     {
       "file": "BarteringStation-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "ace9d5f1d5ed4565be5e12a889e39c9ba0646d2a",
       "size": 96377,
       "side": "both",
-      "stamp": "2026-10-06T15:10:23Z"
+      "stamp": "2026-10-06T17:29:52Z"
     },
     {
       "file": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
       "sha1": "f6c6193c8711340e52645b65dbb7ffde7fbf6f30",
       "size": 100151,
       "side": "both",
-      "stamp": "2026-10-06T15:10:26Z"
+      "stamp": "2026-10-06T17:30:04Z"
     },
     {
       "file": "BetterGrassify-1.8.6+fabric.1.21.1.jar",
       "sha1": "f006203d16fe3d516dbc822b5616427f834725db",
       "size": 87323,
       "side": "both",
-      "stamp": "2026-10-06T15:12:11Z"
+      "stamp": "2026-10-06T17:35:31Z"
     },
     {
       "file": "BetterWorldLoading-1.1.jar",
       "sha1": "481f0ca67d7ec73b4a4961f0ca6dec663af11658",
       "size": 116392,
       "side": "both",
-      "stamp": "2026-10-06T15:12:52Z"
+      "stamp": "2026-10-06T17:37:07Z"
     },
     {
       "file": "BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar",
       "sha1": "04730c4c3f06d867d571a39c76b9de55cd7a62d6",
       "size": 22349734,
       "side": "both",
-      "stamp": "2026-10-06T15:13:12Z"
+      "stamp": "2026-10-06T17:38:50Z"
     },
     {
       "file": "ClimateRivers-v21.1.3-1.21.1-Fabric.jar",
       "sha1": "fcd297a0878fe8b9b3c2d9674751b934dfc514bc",
       "size": 55748,
       "side": "both",
-      "stamp": "2026-10-06T15:13:38Z"
+      "stamp": "2026-10-06T17:41:25Z"
     },
     {
       "file": "Clumps-fabric-1.21.1-19.0.0.1.jar",
       "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
       "size": 20723,
       "side": "both",
-      "stamp": "2026-10-06T15:13:40Z"
+      "stamp": "2026-10-06T17:41:33Z"
     },
     {
       "file": "ConfiguredDefaults-v21.1.3-1.21.1-Fabric.jar",
       "sha1": "bb1e6e25ceceab632d73170111c3c205df0558fa",
       "size": 43244,
       "side": "both",
-      "stamp": "2026-10-06T15:13:43Z"
+      "stamp": "2026-10-06T17:41:49Z"
     },
     {
       "file": "Controlling-fabric-1.21.1-19.0.5.jar",
       "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3",
       "size": 83679,
       "side": "both",
-      "stamp": "2026-10-06T15:13:46Z"
+      "stamp": "2026-10-06T17:41:59Z"
     },
     {
       "file": "ConvenientEffects-v21.1.4-1.21.1-Fabric.jar",
       "sha1": "0de35ee44f07a0c13c5ed8f34bf9463eec0cf9ee",
       "size": 58174,
       "side": "both",
-      "stamp": "2026-10-06T15:13:46Z"
+      "stamp": "2026-10-06T17:41:59Z"
     },
     {
       "file": "CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
       "sha1": "53bc09e3faf8b2e8eb100f5a29ddc0dc17f77f88",
       "size": 3170746,
       "side": "both",
-      "stamp": "2026-10-06T15:13:50Z"
+      "stamp": "2026-10-06T17:42:25Z"
     },
     {
       "file": "CraterLib-Fabric-1.21-3.1.1.jar",
       "sha1": "8d89812547fa23091c1e0f0de9b2ff8f4fe91d13",
       "size": 1360193,
       "side": "both",
-      "stamp": "2026-10-06T15:13:51Z"
+      "stamp": "2026-10-06T17:42:33Z"
     },
     {
       "file": "CutThrough-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "4e6baee203e61e03fa1932c810891d782757385d",
       "size": 51389,
       "side": "both",
-      "stamp": "2026-10-06T15:13:53Z"
+      "stamp": "2026-10-06T17:42:34Z"
     },
     {
       "file": "DEUF_Refabricated-MC1.21-1.1.0.jar",
       "sha1": "c50ec14a69f6ee95dfdee722033ce16c5ca15f2f",
       "size": 8071,
       "side": "both",
-      "stamp": "2026-10-06T15:14:08Z"
+      "stamp": "2026-10-06T17:43:45Z"
     },
     {
       "file": "Debugify-1.21.1+1.0.jar",
       "sha1": "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4",
       "size": 292202,
       "side": "both",
-      "stamp": "2026-10-06T15:13:54Z"
+      "stamp": "2026-10-06T17:42:36Z"
     },
     {
       "file": "DeleteWorldsToTrash-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "c42bd0c5c01110fe399bd99bc30335db03c8efec",
       "size": 58960,
       "side": "both",
-      "stamp": "2026-10-06T15:14:07Z"
+      "stamp": "2026-10-06T17:43:39Z"
     },
     {
       "file": "DiagonalFences-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "a555e794d6f830208a830ea4949f38481eb4fc59",
       "size": 165134,
       "side": "both",
-      "stamp": "2026-10-06T15:14:09Z"
+      "stamp": "2026-10-06T17:43:46Z"
     },
     {
       "file": "DiagonalWalls-v21.1.2-1.21.1-Fabric.jar",
       "sha1": "89c53d706cc1649a92796a520e572b0f716acf97",
       "size": 161428,
       "side": "both",
-      "stamp": "2026-10-06T15:14:09Z"
+      "stamp": "2026-10-06T17:43:47Z"
     },
     {
       "file": "DnT-ancient-city-overhaul-v2.Fabric.jar",
       "sha1": "bce66cedf877e6bb65eba1e4f0221d856762bf03",
       "size": 945500,
       "side": "both",
-      "stamp": "2026-10-06T15:14:11Z"
+      "stamp": "2026-10-06T17:43:55Z"
     },
     {
       "file": "DnT-swamp-hut-overhaul-v2.Fabric.jar",
       "sha1": "03c01b312031e14c0ea06e62ad438b1c1cc13876",
       "size": 111906,
       "side": "both",
-      "stamp": "2026-10-06T15:14:12Z"
+      "stamp": "2026-10-06T17:43:55Z"
     },
     {
       "file": "DnT-woodland-mansion-replacement-v1.2.Fabric.jar",
       "sha1": "489198eaa01b3aa244b969523ce78fa09d7489a8",
       "size": 4687463,
       "side": "both",
-      "stamp": "2026-10-06T15:14:16Z"
+      "stamp": "2026-10-06T17:44:12Z"
     },
     {
       "file": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "sha1": "67c35d9a55e1f16ae5b7b00d180f61a1578476fb",
       "size": 11864952,
       "side": "both",
-      "stamp": "2026-10-06T15:14:29Z"
+      "stamp": "2026-10-06T17:45:15Z"
     },
     {
       "file": "DyedFlames-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "471a125c7885a2e6f3e4fd8013603d3bdb1317d6",
       "size": 165347,
       "side": "both",
-      "stamp": "2026-10-06T15:14:29Z"
+      "stamp": "2026-10-06T17:45:16Z"
     },
     {
       "file": "EasyAnvils-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "c07d01e04a29d4adcee8ffeb14eb3290a279627e",
       "size": 148736,
       "side": "both",
-      "stamp": "2026-10-06T15:14:31Z"
+      "stamp": "2026-10-06T17:45:23Z"
     },
     {
       "file": "EasyMagic-v21.1.4-1.21.1-Fabric.jar",
       "sha1": "2131b964eafe376ff7e565cdae330a585e42d2e1",
       "size": 140897,
       "side": "both",
-      "stamp": "2026-10-06T15:14:32Z"
+      "stamp": "2026-10-06T17:45:24Z"
     },
     {
       "file": "EternalNether-v21.1.3-1.21.1-Fabric.jar",
       "sha1": "8f75e0ccf26e9fce1bd834ac5b4615d8f00fa4d7",
       "size": 7382201,
       "side": "both",
-      "stamp": "2026-10-06T15:14:42Z"
+      "stamp": "2026-10-06T17:46:22Z"
     },
     {
       "file": "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar",
       "sha1": "b1fc5eb98ad63fba6d4594035964471925b3154f",
       "size": 2827550,
       "side": "both",
-      "stamp": "2026-10-06T15:14:45Z"
+      "stamp": "2026-10-06T17:46:30Z"
     },
     {
       "file": "Explorify.v1.6.4.f15-88.mod.jar",
       "sha1": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
       "size": 951495,
       "side": "both",
-      "stamp": "2026-10-06T15:14:47Z"
+      "stamp": "2026-10-06T17:46:35Z"
     },
     {
       "file": "FallingTree-1.21.1-1.21.1.11.jar",
       "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255",
       "size": 496356,
       "side": "both",
-      "stamp": "2026-10-06T15:15:03Z"
+      "stamp": "2026-10-06T17:47:43Z"
     },
     {
       "file": "FarmersDelight-1.21.1-3.2.5+refabricated.jar",
       "sha1": "7a4d9a0d39623aa44d7be01590b0551d3df1b245",
       "size": 3142813,
       "side": "both",
-      "stamp": "2026-10-06T15:15:19Z"
+      "stamp": "2026-10-06T17:50:29Z"
     },
     {
       "file": "FarmersStructures-1.0.0-1.21_fabric.jar",
       "sha1": "1db6ff92dd39d058abfda4ed6273a5cfae00b0ac",
       "size": 267290,
       "side": "both",
-      "stamp": "2026-10-06T15:15:20Z"
+      "stamp": "2026-10-06T17:50:31Z"
     },
     {
       "file": "FastItemFrames-v21.1.6-1.21.1-Fabric.jar",
       "sha1": "be6a84cfc3384d2a01e1dee8aeff345ffc78c307",
       "size": 96210,
       "side": "both",
-      "stamp": "2026-10-06T15:15:22Z"
+      "stamp": "2026-10-06T17:50:35Z"
     },
     {
       "file": "FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
       "sha1": "bd2e38ab563d889675f138f0eaeb63f0bb7fbb79",
       "size": 15966,
       "side": "both",
-      "stamp": "2026-10-06T15:15:23Z"
+      "stamp": "2026-10-06T17:50:37Z"
     },
     {
       "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
       "size": 633065,
       "side": "both",
-      "stamp": "2026-10-06T15:15:25Z"
+      "stamp": "2026-10-06T17:50:46Z"
     },
     {
       "file": "Geophilic.v3.4.6.mod.jar",
       "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5",
       "size": 751598,
       "side": "both",
-      "stamp": "2026-10-06T15:15:36Z"
+      "stamp": "2026-10-06T17:52:36Z"
     },
     {
       "file": "GlitchCore-fabric-1.21.1-2.1.0.0.jar",
       "sha1": "b71776674a5773b447c30c3e62aaa5ceade2dc2e",
       "size": 329188,
       "side": "both",
-      "stamp": "2026-10-06T15:15:37Z"
-    },
-    {
-      "file": "HMI-4.3-1.21.1.jar",
-      "sha1": "19ff289fa00d338092458265f3ed24a92a9ada5f",
-      "size": 105906,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:34Z"
+      "stamp": "2026-10-06T17:52:39Z"
     },
     {
       "file": "Hearths.v1.0.5.mod.jar",
       "sha1": "7d1d4be3c3033b7df902b51915f37f53d60718b5",
       "size": 334560,
       "side": "both",
-      "stamp": "2026-10-06T15:15:42Z"
+      "stamp": "2026-10-06T17:53:32Z"
     },
     {
       "file": "HellishTrials-fabric-1.0.5.jar",
       "sha1": "297b11cc1ba644a63c06c386a6a590127738a271",
       "size": 582848,
       "side": "both",
-      "stamp": "2026-10-06T15:15:42Z"
+      "stamp": "2026-10-06T17:53:35Z"
     },
     {
       "file": "Highlighter-1.21-fabric-1.1.11.jar",
       "sha1": "220893ae42e5f60d3048fedd80dcb6bbcaaa419c",
       "size": 30687,
       "side": "both",
-      "stamp": "2026-10-06T15:15:43Z"
+      "stamp": "2026-10-06T17:53:36Z"
     },
     {
       "file": "Iceberg-1.21.1-fabric-1.3.2.jar",
       "sha1": "170e30bf93ccba6d80dd481eedddae16cb549d29",
       "size": 413302,
       "side": "both",
-      "stamp": "2026-10-06T15:15:44Z"
+      "stamp": "2026-10-06T17:53:38Z"
     },
     {
       "file": "IllagerInvasion-v21.1.6-1.21.1-Fabric.jar",
       "sha1": "9bffd7c89b1f1b0d671bcac68363000dd08239c7",
       "size": 2336674,
       "side": "both",
-      "stamp": "2026-10-06T15:15:47Z"
+      "stamp": "2026-10-06T17:54:01Z"
     },
     {
-      "file": "ImmediatelyFast-Fabric-1.6.14+1.21.1.jar",
-      "sha1": "023805be7d701b9769e987449d217c557de5f848",
-      "size": 340166,
+      "file": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+      "sha1": "ff2be016b12128fc0cd875a21a307d681edde817",
+      "size": 342770,
       "side": "both",
-      "stamp": "2026-10-06T09:42:17Z"
+      "stamp": "2026-10-06T17:54:03Z"
     },
     {
       "file": "Ixeris-4.2.0+1.21.1-fabric.jar",
       "sha1": "82f4078799d466eb1d3985918993eb0f8b1c8a98",
       "size": 713464,
       "side": "both",
-      "stamp": "2026-10-06T15:15:55Z"
+      "stamp": "2026-10-06T17:54:43Z"
     },
     {
       "file": "Jade-1.21.1-Fabric-15.10.5.jar",
       "sha1": "ec3bf463b891c2b2400ed5bb01c0b3d67de4170a",
       "size": 739009,
       "side": "both",
-      "stamp": "2026-10-06T15:15:56Z"
+      "stamp": "2026-10-06T17:54:47Z"
     },
     {
       "file": "JadeAddons-1.21.1-Fabric-6.0.3.jar",
       "sha1": "2da733519a0e9c7b79cc4b4194a3b0fe5f42f5bf",
       "size": 39917,
       "side": "both",
-      "stamp": "2026-10-06T15:15:57Z"
+      "stamp": "2026-10-06T17:54:48Z"
     },
     {
       "file": "JustEnoughProfessions-fabric-1.21.1-4.0.5.jar",
       "sha1": "e1f77d90829632cf7e890c6f482b4795f58a71d3",
       "size": 24934,
       "side": "both",
-      "stamp": "2026-10-06T15:15:59Z"
+      "stamp": "2026-10-06T17:54:56Z"
     },
     {
       "file": "Kiwi-1.21.1-Fabric-15.8.3.jar",
       "sha1": "1135142ef235657d76fdf524b055281ab56d741b",
       "size": 1553340,
       "side": "both",
-      "stamp": "2026-10-06T15:16:00Z"
+      "stamp": "2026-10-06T17:55:02Z"
     },
     {
       "file": "LeaveMyBarsAlone-v21.1.2-1.21.1-Fabric.jar",
       "sha1": "f7e4c1173243f45fd2c4e0d14258b3e3f16211ec",
       "size": 51515,
       "side": "both",
-      "stamp": "2026-10-06T15:16:04Z"
+      "stamp": "2026-10-06T17:55:09Z"
     },
     {
       "file": "LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "b0f60368cb0e06dc4b0b4d465a6f04b1ec421c18",
       "size": 55826,
       "side": "both",
-      "stamp": "2026-10-06T15:16:04Z"
+      "stamp": "2026-10-06T17:55:10Z"
     },
     {
       "file": "MagnumTorch-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "1f48a88febc6df959b38dafb1572cffc10dc369d",
       "size": 122923,
       "side": "both",
-      "stamp": "2026-10-06T15:16:12Z"
+      "stamp": "2026-10-06T17:55:51Z"
     },
     {
       "file": "MoogsEndStructures-1.21-2.0.2.jar",
       "sha1": "746eea80e0df09b873f3e9b3883d8cbf889b0912",
       "size": 1210262,
       "side": "both",
-      "stamp": "2026-10-06T15:16:20Z"
+      "stamp": "2026-10-06T17:56:34Z"
     },
     {
       "file": "MoogsMissingVillages-1.21-2.1.0.jar",
       "sha1": "f73be8fe1a4855d1bf6a3c4ad48c3f2bc6239bf9",
       "size": 5624036,
       "side": "both",
-      "stamp": "2026-10-06T15:16:23Z"
+      "stamp": "2026-10-06T17:57:08Z"
     },
     {
       "file": "MoogsNetherStructures-1.21-2.0.4.jar",
       "sha1": "96f691cd5cd6d4051766b874650a627166844699",
       "size": 443156,
       "side": "both",
-      "stamp": "2026-10-06T15:16:24Z"
+      "stamp": "2026-10-06T17:57:11Z"
     },
     {
       "file": "MoogsVoyagerStructures-1.21-5.0.9.jar",
       "sha1": "5f2c232681510e27486b589afbbbaebdd1feee7f",
       "size": 1918738,
       "side": "both",
-      "stamp": "2026-10-06T15:16:25Z"
+      "stamp": "2026-10-06T17:57:23Z"
     },
     {
       "file": "MoreVillagers-Re-1.21.1-fabric-1.25.12.4.jar",
       "sha1": "7920a3bb82d47c274c5d736c7902610e116369db",
       "size": 1391024,
       "side": "both",
-      "stamp": "2026-10-06T15:16:28Z"
+      "stamp": "2026-10-06T17:57:41Z"
     },
     {
       "file": "MouseTweaks-fabric-mc1.21-2.26.jar",
       "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
       "size": 75984,
       "side": "both",
-      "stamp": "2026-10-06T15:16:28Z"
+      "stamp": "2026-10-06T17:57:42Z"
     },
     {
       "file": "MyNethersDelight-1.21.1-2.0.3+1.7.8.refabricated.jar",
       "sha1": "ab0cea2a1b945ae357c3f5c97e4e1448d0e28862",
       "size": 706365,
       "side": "both",
-      "stamp": "2026-10-06T15:16:29Z"
+      "stamp": "2026-10-06T17:57:47Z"
     },
     {
       "file": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
       "sha1": "15bb7a4f27eaa13b755edac496c1c9d502843827",
       "size": 233392,
       "side": "both",
-      "stamp": "2026-10-06T15:16:30Z"
+      "stamp": "2026-10-06T17:57:48Z"
     },
     {
       "file": "NetherChested-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "69db202114f0e43ef8148e375ec1166bbf523b13",
       "size": 164646,
       "side": "both",
-      "stamp": "2026-10-06T15:16:42Z"
+      "stamp": "2026-10-06T18:00:12Z"
     },
     {
       "file": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
       "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19",
       "size": 309410,
       "side": "both",
-      "stamp": "2026-10-06T15:16:43Z"
+      "stamp": "2026-10-06T18:00:19Z"
     },
     {
       "file": "OverflowingBars-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "6f4aff111d341797afe11a97f4b82c02078867e0",
       "size": 77329,
       "side": "both",
-      "stamp": "2026-10-06T15:16:47Z"
+      "stamp": "2026-10-06T18:00:50Z"
     },
     {
       "file": "ParticleEffects-1.4.0+1.21.1+fabric.jar",
       "sha1": "f8a8ffa343816b5330d1c332218506ae0113e544",
       "size": 313173,
       "side": "both",
-      "stamp": "2026-10-06T15:16:51Z"
+      "stamp": "2026-10-06T18:01:13Z"
     },
     {
       "file": "Patchouli-1.21-87-FABRIC.jar",
       "sha1": "31acb21491891f6fa4eb529f17bb322ab1286904",
       "size": 860661,
       "side": "both",
-      "stamp": "2026-10-06T15:16:52Z"
+      "stamp": "2026-10-06T18:01:19Z"
     },
     {
       "file": "Paxi-1.21.1-Fabric-5.1.3.jar",
       "sha1": "e91042c9cc9f358776afe3b69af73e6e38038cdd",
       "size": 230652,
       "side": "both",
-      "stamp": "2026-10-06T15:16:53Z"
+      "stamp": "2026-10-06T18:01:21Z"
     },
     {
       "file": "PickUpNotifier-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "674cfd523ebf5bb04fcdb58ab542169474d4c48b",
       "size": 95293,
       "side": "both",
-      "stamp": "2026-10-06T15:16:53Z"
+      "stamp": "2026-10-06T18:01:22Z"
     },
     {
       "file": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
       "sha1": "647c326ed26a8d085e75b04d3fbc9846cf974799",
       "size": 152703,
       "side": "both",
-      "stamp": "2026-10-06T15:16:54Z"
+      "stamp": "2026-10-06T18:01:24Z"
     },
     {
       "file": "Platform-fabric-1.21.1-1.3.jar",
       "sha1": "abc57a537cd2f2f5613d43455a31264095198154",
       "size": 719170,
       "side": "both",
-      "stamp": "2026-10-06T15:16:56Z"
+      "stamp": "2026-10-06T18:01:31Z"
     },
     {
       "file": "PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
       "sha1": "28c3b80d60d4f89ae334970e0ed609cd0dba7374",
       "size": 1129192,
       "side": "both",
-      "stamp": "2026-10-06T15:17:00Z"
+      "stamp": "2026-10-06T18:01:44Z"
     },
     {
       "file": "Quest-Kill-Task-fabric-0.3.1+1.21.1.jar",
       "sha1": "9f06d1bf89fbbd2e886342346005900857e97c2f",
       "size": 20390,
       "side": "both",
-      "stamp": "2026-10-06T15:17:00Z"
+      "stamp": "2026-10-06T18:01:44Z"
     },
     {
       "file": "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "ea53b83821e3a584159d0bca490e2460e27c616d",
       "size": 80827,
       "side": "both",
-      "stamp": "2026-10-06T15:17:11Z"
+      "stamp": "2026-10-06T18:02:56Z"
     },
     {
       "file": "ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
       "sha1": "2ce889d9b1b210eef005ea03c3bbb39289c26e3f",
       "size": 177266,
       "side": "both",
-      "stamp": "2026-10-06T15:17:13Z"
+      "stamp": "2026-10-06T18:03:05Z"
     },
     {
       "file": "Searchables-fabric-1.21.1-1.0.2.jar",
       "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7",
       "size": 79531,
       "side": "both",
-      "stamp": "2026-10-06T15:17:14Z"
+      "stamp": "2026-10-06T18:03:07Z"
     },
     {
       "file": "SimpleDiscordRichPresence-fabric-88.0.1-build.54+mc1.21.1.jar",
       "sha1": "35c08b9345ffc23f47bda6c8c17ae2549a9db264",
       "size": 75286,
       "side": "both",
-      "stamp": "2026-10-06T15:17:15Z"
+      "stamp": "2026-10-06T18:03:08Z"
     },
     {
       "file": "SkeletonAIFix-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "fa099047ca0d9ff39481646e5815d74412b33ed6",
       "size": 45329,
       "side": "both",
-      "stamp": "2026-10-06T15:17:15Z"
+      "stamp": "2026-10-06T18:03:09Z"
     },
     {
       "file": "SnowRealMagic-1.21.1-Fabric-12.2.0.jar",
       "sha1": "bc1a5087e4934f92eca59739ac6eddcd3289c48d",
       "size": 226328,
       "side": "both",
-      "stamp": "2026-10-06T15:17:19Z"
+      "stamp": "2026-10-06T18:03:27Z"
     },
     {
       "file": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
       "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163",
       "size": 321213,
       "side": "both",
-      "stamp": "2026-10-06T15:17:30Z"
+      "stamp": "2026-10-06T18:04:29Z"
     },
     {
       "file": "Stoneworks-v21.1.0-1.21.1-Fabric.jar",
       "sha1": "4213f967f906ecf460837050b71517d5857c6f9f",
       "size": 1993392,
       "side": "both",
-      "stamp": "2026-10-06T15:17:32Z"
+      "stamp": "2026-10-06T18:04:44Z"
     },
     {
       "file": "Stony.Cliffs.for.Lithostitched.v1.1.2.jar",
       "sha1": "ee8fad981dcc76fe66abe5b644dc97a24984a539",
       "size": 44211,
       "side": "both",
-      "stamp": "2026-10-06T15:17:32Z"
+      "stamp": "2026-10-06T18:04:45Z"
     },
     {
       "file": "Structory_26.1_v1.3.16.jar",
       "sha1": "ee48f145a3a09fdb3f492576cbc21ed26abc74bb",
       "size": 1261336,
       "side": "both",
-      "stamp": "2026-10-06T15:17:34Z"
+      "stamp": "2026-10-06T18:04:53Z"
     },
     {
       "file": "Structory_Towers_26.1_v1.0.16.jar",
       "sha1": "ed22fe659cb3020f2e86b7619ce721714b9546be",
       "size": 491545,
       "side": "both",
-      "stamp": "2026-10-06T15:17:34Z"
+      "stamp": "2026-10-06T18:04:55Z"
     },
     {
       "file": "SubtleEffects-fabric-1.21.1-1.14.3.jar",
       "sha1": "bbd111b0e1d7dfd6addecf9a4ed18fd707665478",
       "size": 3301460,
       "side": "both",
-      "stamp": "2026-10-06T15:17:38Z"
+      "stamp": "2026-10-06T18:05:20Z"
     },
     {
       "file": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
       "sha1": "cbaea35f0d8a7b90593d5c0fd06535a875d152a8",
       "size": 337989,
       "side": "both",
-      "stamp": "2026-10-06T15:17:55Z"
+      "stamp": "2026-10-06T18:07:20Z"
     },
     {
       "file": "TradingPost-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "85e513b6cc796bc685aac59af5d6e9971d0d08d6",
       "size": 119510,
       "side": "both",
-      "stamp": "2026-10-06T15:18:26Z"
+      "stamp": "2026-10-06T18:15:02Z"
     },
     {
       "file": "VanillaBackport-fabric-1.21.1-1.1.6.3.jar",
       "sha1": "39564fc06204353c24c22d26cd362af0732c147c",
       "size": 27541846,
       "side": "both",
-      "stamp": "2026-10-06T15:18:36Z"
+      "stamp": "2026-10-06T18:18:58Z"
     },
     {
       "file": "Villager-API-1.21.1-fabric-1.26.1.3.jar",
       "sha1": "9961a1027daa4dc3f9731bc6ebc04ab3169cfc5d",
       "size": 133514,
       "side": "both",
-      "stamp": "2026-10-06T15:18:39Z"
+      "stamp": "2026-10-06T18:19:24Z"
     },
     {
       "file": "VisualWorkbench-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "2cb424841dea0eb6073b8a78ea6ae81fa73da0bc",
       "size": 80510,
       "side": "both",
-      "stamp": "2026-10-06T15:18:41Z"
-    },
-    {
-      "file": "WI-Zoom-1.7-MC1.21.1.jar",
-      "sha1": "aa9e7b190b7dfc6b468767efb1db2ba857c3d907",
-      "size": 166677,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:40Z"
+      "stamp": "2026-10-06T18:19:40Z"
     },
     {
       "file": "XaeroPlus-2.31.3+fabric-1.21.1-WM1.40.16-MM25.3.12.jar",
       "sha1": "6b237740c5c335f67174428e9c1fa9b69d16abf4",
       "size": 7916298,
       "side": "both",
-      "stamp": "2026-10-06T15:18:49Z"
+      "stamp": "2026-10-06T18:21:29Z"
     },
     {
       "file": "YungsApi-1.21.1-Fabric-5.1.6.jar",
       "sha1": "771a83c415c58ead861a6a7674c676e31d7573c0",
       "size": 1257492,
       "side": "both",
-      "stamp": "2026-10-06T15:19:57Z"
+      "stamp": "2026-10-06T18:22:16Z"
     },
     {
       "file": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
       "sha1": "1596a14713ed6c1d9deb5a3a328774e9bfa39de6",
       "size": 909660,
       "side": "both",
-      "stamp": "2026-10-06T15:19:58Z"
+      "stamp": "2026-10-06T18:22:24Z"
     },
     {
       "file": "YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
       "sha1": "22baef6e01ec03f9c340ce79750954557ef0a758",
       "size": 522278,
       "side": "both",
-      "stamp": "2026-10-06T15:19:59Z"
+      "stamp": "2026-10-06T18:22:28Z"
     },
     {
       "file": "YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
       "sha1": "e07884b736c40c6bc7632eb6ae57b7642f96128f",
       "size": 923910,
       "side": "both",
-      "stamp": "2026-10-06T15:19:59Z"
+      "stamp": "2026-10-06T18:22:35Z"
     },
     {
       "file": "YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
       "sha1": "109ff2fb19cd42d1731ea4ed17efbd9b5c1187dc",
       "size": 615927,
       "side": "both",
-      "stamp": "2026-10-06T15:20:00Z"
+      "stamp": "2026-10-06T18:22:41Z"
     },
     {
       "file": "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
       "sha1": "99096e90aba45f3fb4eec5b9daa8acdb6497fa72",
       "size": 736418,
       "side": "both",
-      "stamp": "2026-10-06T15:20:01Z"
+      "stamp": "2026-10-06T18:22:46Z"
     },
     {
       "file": "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
       "sha1": "e8b566f5c941018cbd0bf8a32aa4c4ea3a410bfd",
       "size": 1150417,
       "side": "both",
-      "stamp": "2026-10-06T15:20:02Z"
+      "stamp": "2026-10-06T18:22:55Z"
     },
     {
       "file": "YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
       "sha1": "1ef8824995ea5e4e556b354d3195a3187aa1602f",
       "size": 587855,
       "side": "both",
-      "stamp": "2026-10-06T15:20:02Z"
+      "stamp": "2026-10-06T18:23:00Z"
     },
     {
       "file": "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
       "sha1": "52389a853f0b0d7d134147a1be842675e5c67e40",
       "size": 298721,
       "side": "both",
-      "stamp": "2026-10-06T15:20:03Z"
+      "stamp": "2026-10-06T18:23:03Z"
     },
     {
       "file": "YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar",
       "sha1": "0e5cd18ee58f199bfe4476d34c20cf5c908e3a69",
       "size": 281977,
       "side": "both",
-      "stamp": "2026-10-06T15:20:03Z"
+      "stamp": "2026-10-06T18:23:06Z"
+    },
+    {
+      "file": "abridged-2.0.1-fabric-1.21.1.jar",
+      "sha1": "0fdb1bdfaaf83ddde70354b23a858683811cc506",
+      "size": 120653,
+      "side": "both",
+      "stamp": "2026-10-06T18:23:31Z"
     },
     {
       "file": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
       "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b",
       "size": 1095802,
       "side": "both",
-      "stamp": "2026-10-06T15:10:06Z"
+      "stamp": "2026-10-06T18:23:45Z"
+    },
+    {
+      "file": "accessories_compat_layer-fabric-0.1.12+1.21.1.jar",
+      "sha1": "44acb001881c063aa15fe66a26de5fae88e6564f",
+      "size": 398321,
+      "side": "both",
+      "stamp": "2026-10-06T18:23:35Z"
     },
     {
       "file": "accessorify-2.4.0-beta.5+1.21.1-fabric.jar",
       "sha1": "315a64d22a1e515220bc3171e9f46d2a460f6d28",
       "size": 432644,
       "side": "both",
-      "stamp": "2026-10-06T15:10:06Z"
+      "stamp": "2026-10-06T18:23:49Z"
     },
     {
       "file": "adorabuild-structures-2.11.0-fabric-1.21.3.jar",
       "sha1": "ec17732f9c4032732dc86cd46fcdf4270333f94b",
       "size": 665657,
       "side": "both",
-      "stamp": "2026-10-06T15:10:07Z"
+      "stamp": "2026-10-06T17:26:18Z"
     },
     {
       "file": "advancednetherite-fabric-2.3.1-1.21.1.jar",
       "sha1": "8b9938f9911c80fcbdf9a1151247bcd980ed6bf5",
       "size": 511641,
       "side": "both",
-      "stamp": "2026-10-06T15:10:08Z"
+      "stamp": "2026-10-06T17:26:22Z"
     },
     {
       "file": "adventuredungeons-fabric-1.21-1.3.1.jar",
       "sha1": "12bb82887e1d734ecd6f56547bdc4fd108890dd6",
       "size": 1602316,
       "side": "both",
-      "stamp": "2026-10-06T15:10:08Z"
+      "stamp": "2026-10-06T17:26:25Z"
     },
     {
       "file": "adventurez-1.5.0.jar",
       "sha1": "26c23b923695c50d5779600d835e08d94231d6fb",
       "size": 5025691,
       "side": "both",
-      "stamp": "2026-10-06T15:10:09Z"
+      "stamp": "2026-10-06T17:26:43Z"
     },
     {
       "file": "aether-1.21.1-1.5.11-fabric.jar",
       "sha1": "1d9db7437ecc7b5ebab2dd918abca63908152f3a",
       "size": 40931095,
       "side": "both",
-      "stamp": "2026-10-06T15:10:15Z"
+      "stamp": "2026-10-06T17:29:24Z"
     },
     {
       "file": "aether_enhanced_extinguishing-1.21.1-1.0.0-fabric.jar",
       "sha1": "f0aad62df4544eb156aa06098dcbd5eacb961559",
       "size": 110764,
       "side": "both",
-      "stamp": "2026-10-06T15:10:10Z"
+      "stamp": "2026-10-06T17:26:44Z"
     },
     {
       "file": "aether_protect_your_moa-1.21.1-1.0.0-fabric.jar",
       "sha1": "0246b0620daf7aa7857c64a1417fe4b9f5e25cc8",
       "size": 165491,
       "side": "both",
-      "stamp": "2026-10-06T15:10:10Z"
+      "stamp": "2026-10-06T17:26:45Z"
     },
     {
       "file": "aether_treasure_reforging-1.21.1-1.0.1-fabric.jar",
       "sha1": "b91dcc25e75c0e4b9f6a324f003553cd88ebcf25",
       "size": 135883,
       "side": "both",
-      "stamp": "2026-10-06T15:10:11Z"
+      "stamp": "2026-10-06T17:26:46Z"
     },
     {
       "file": "alternate-current-mc1.21-1.9.0.jar",
       "sha1": "b3dbc4fc4acfd98f3f6b62bbb4e641ed4df915e8",
       "size": 51836,
       "side": "both",
-      "stamp": "2026-10-06T15:10:18Z"
+      "stamp": "2026-10-06T17:29:30Z"
     },
     {
       "file": "amendments-1.21-2.0.15-fabric.jar",
       "sha1": "94245b5c7a552a43f56fd60387142c568ba943e4",
       "size": 1113744,
       "side": "both",
-      "stamp": "2026-10-06T15:10:19Z"
+      "stamp": "2026-10-06T17:29:35Z"
     },
     {
       "file": "animal_feeding_trough-1.1.2+1.21.1.jar",
       "sha1": "9139f325648d543aa9e04e4d6e63f4796e39574e",
       "size": 236998,
       "side": "both",
-      "stamp": "2026-10-06T15:10:19Z"
+      "stamp": "2026-10-06T17:29:36Z"
     },
     {
       "file": "animatica-0.6.1+1.21.jar",
       "sha1": "fd805fa03e25013b9fe824bf43f7d8a90f565c84",
       "size": 71502,
       "side": "both",
-      "stamp": "2026-10-06T15:10:20Z"
+      "stamp": "2026-10-06T17:29:37Z"
     },
     {
       "file": "another_furniture-fabric-4.0.2.jar",
       "sha1": "c2f992081bdc4795ed6d87771a3b5f7c71103785",
       "size": 2398841,
       "side": "both",
-      "stamp": "2026-10-06T15:10:21Z"
+      "stamp": "2026-10-06T17:29:43Z"
     },
     {
       "file": "architectury-13.0.8-fabric.jar",
       "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
       "size": 600915,
       "side": "both",
-      "stamp": "2026-10-06T15:10:21Z"
+      "stamp": "2026-10-06T17:29:45Z"
     },
     {
       "file": "balm-fabric-1.21.1-21.0.56.jar",
       "sha1": "0377b2e07551dc9fbcb40b94a3d38e098cd85d7e",
       "size": 773504,
       "side": "both",
-      "stamp": "2026-10-06T15:10:23Z"
+      "stamp": "2026-10-06T17:29:51Z"
     },
     {
       "file": "bclib-21.0.13.jar",
       "sha1": "6a46eb6a8fb9cc0adb878b0ad12555834078c2b3",
       "size": 1486843,
       "side": "both",
-      "stamp": "2026-10-06T15:10:24Z"
+      "stamp": "2026-10-06T17:29:58Z"
     },
     {
       "file": "bedrockoid-0.1.4.jar",
       "sha1": "a91e927dc1e7747977cdd180c827e7b2a3f0445e",
       "size": 407859,
       "side": "both",
-      "stamp": "2026-10-06T15:10:24Z"
+      "stamp": "2026-10-06T17:30:00Z"
     },
     {
       "file": "better-compatability-checker-fabric-21.1.8.jar",
       "sha1": "0b71c071b83c613ba83a7f452db008385131a0c7",
       "size": 25258,
       "side": "both",
-      "stamp": "2026-10-06T15:10:26Z"
+      "stamp": "2026-10-06T17:30:06Z"
     },
     {
       "file": "better-end-21.0.11.jar",
       "sha1": "625f4340bd9ab67a08130a4167fc6a01777ab075",
       "size": 93380273,
       "side": "both",
-      "stamp": "2026-10-06T15:12:09Z"
+      "stamp": "2026-10-06T17:35:28Z"
     },
     {
       "file": "better-nether-21.0.11.jar",
       "sha1": "c6dcee6fd46d25d0bf2246549efd3da96ce45769",
       "size": 23145216,
       "side": "both",
-      "stamp": "2026-10-06T15:12:50Z"
+      "stamp": "2026-10-06T17:37:04Z"
     },
     {
       "file": "better_client-fabric-1.9.0.jar",
       "sha1": "ec98d8ece861849a606fcc8201f933fdd1da6e46",
       "size": 641973,
       "side": "both",
-      "stamp": "2026-10-06T15:10:25Z"
+      "stamp": "2026-10-06T17:30:03Z"
     },
     {
       "file": "betterbiomeblend-1.5.2.jar",
       "sha1": "c6528c9760ecfd2987484aabe54c3d26e931e3a7",
       "size": 275755,
       "side": "both",
-      "stamp": "2026-10-06T15:10:26Z"
+      "stamp": "2026-10-06T17:30:05Z"
     },
     {
       "file": "betterend-crashed-ships-1.1.0.jar",
       "sha1": "21154705eb2607790cd29525dd217749e3d188b7",
       "size": 10182,
       "side": "both",
-      "stamp": "2026-10-06T15:12:10Z"
+      "stamp": "2026-10-06T17:35:29Z"
     },
     {
       "file": "betterendcitiesforbetterend-1.21.1-1.0.0.jar",
       "sha1": "40fae71fd79c9fab4a066d83791531e14d38550e",
       "size": 67315,
       "side": "both",
-      "stamp": "2026-10-06T15:12:10Z"
+      "stamp": "2026-10-06T17:35:29Z"
     },
     {
       "file": "betterendelytrafix-fabric-1.0.0-1.21.1.jar",
       "sha1": "114eefeb0dbee6aa59b34d2f5606cd3a84400355",
       "size": 296608,
       "side": "both",
-      "stamp": "2026-10-06T15:12:11Z"
+      "stamp": "2026-10-06T17:35:31Z"
     },
     {
       "file": "bettermounthud-1.2.4.jar",
       "sha1": "4df822bd5bd7d2e125eb9c7fdb38bb4b6ee0476e",
       "size": 21013,
       "side": "both",
-      "stamp": "2026-10-06T15:12:11Z"
+      "stamp": "2026-10-06T17:35:32Z"
     },
     {
       "file": "betterstats-3.13.9+fabric-1.21.jar",
       "sha1": "9efb20a491a2e3b801ce8dbe5488356e08d2b1fc",
       "size": 442117,
       "side": "both",
-      "stamp": "2026-10-06T15:12:51Z"
+      "stamp": "2026-10-06T17:37:06Z"
     },
     {
       "file": "biomemusic-fabric-1.21-3.5.jar",
       "sha1": "7b5db136aea280e96827e46ee940a2e1ec71a484",
       "size": 35907,
       "side": "both",
-      "stamp": "2026-10-06T15:12:53Z"
+      "stamp": "2026-10-06T17:37:08Z"
     },
     {
       "file": "blended-compat-1.1.2.jar",
       "sha1": "98bbd93ec132f00cd70d6b65f4002bfda3b8d433",
       "size": 155918,
       "side": "both",
-      "stamp": "2026-10-06T15:13:13Z"
+      "stamp": "2026-10-06T17:38:51Z"
     },
     {
       "file": "bookshelf-fabric-1.21.1-21.1.81.jar",
       "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b",
       "size": 330355,
       "side": "both",
-      "stamp": "2026-10-06T15:13:15Z"
+      "stamp": "2026-10-06T17:39:05Z"
     },
     {
       "file": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.363.jar",
       "sha1": "cd5aa09c60a93727b1e82e6035602223ee8883c0",
       "size": 4687730,
       "side": "both",
-      "stamp": "2026-10-06T15:13:18Z"
+      "stamp": "2026-10-06T17:39:21Z"
     },
     {
       "file": "cardinal-components-api-6.1.3.jar",
       "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
       "size": 229645,
       "side": "both",
-      "stamp": "2026-10-06T15:13:18Z"
+      "stamp": "2026-10-06T17:39:23Z"
     },
     {
       "file": "carryon-fabric-1.21.1-2.2.2.11.jar",
       "sha1": "f2e4f069779228d65c96d0f311ef12ff0685369b",
       "size": 351867,
       "side": "both",
-      "stamp": "2026-10-06T15:13:19Z"
+      "stamp": "2026-10-06T17:39:25Z"
     },
     {
       "file": "certain_questing_additions-fabric-1.1.7+mc1.21.1.jar",
       "sha1": "3b5d656c10e1131737afe69fb96ff2ac9bcf6ed1",
       "size": 508927,
       "side": "both",
-      "stamp": "2026-10-06T15:13:20Z"
+      "stamp": "2026-10-06T17:39:28Z"
     },
     {
       "file": "cerulean-fabric-1.0.0-1.21.1.jar",
       "sha1": "eac4a453a6ac36f76ce40572a79797ed076f3e6e",
       "size": 942206,
       "side": "both",
-      "stamp": "2026-10-06T15:13:21Z"
+      "stamp": "2026-10-06T17:39:32Z"
     },
     {
       "file": "charm-fabric-1.21.1-7.0.42-forked.jar",
       "sha1": "8eceee41a7a378d27e4685f996c159c1476f9831",
       "size": 4401637,
       "side": "both",
-      "stamp": "2026-10-06T15:13:24Z"
+      "stamp": "2026-10-06T17:39:48Z"
     },
     {
       "file": "chat_heads-0.15.1-fabric-1.21.jar",
       "sha1": "0148f73f5ee786d537d4b274b2db6894eb0a1c67",
       "size": 84247,
       "side": "both",
-      "stamp": "2026-10-06T15:13:24Z"
+      "stamp": "2026-10-06T17:39:49Z"
     },
     {
       "file": "chatpatches-8.0-alpha.8+1.21.1-fabric.jar",
       "sha1": "b769d200825faf730c1bf73889a4ad294eca8332",
       "size": 1469425,
       "side": "both",
-      "stamp": "2026-10-06T15:13:25Z"
+      "stamp": "2026-10-06T17:39:55Z"
     },
     {
       "file": "cherishedworlds-fabric-10.1.1+1.21.1.jar",
       "sha1": "c4a0e044b2f34ed2f0ae5e64c22cc46ff4f10c4a",
       "size": 63643,
       "side": "both",
-      "stamp": "2026-10-06T15:13:26Z"
+      "stamp": "2026-10-06T17:39:56Z"
     },
     {
       "file": "chipped-fabric-1.21.1-4.0.2.jar",
       "sha1": "add18f65d7b131e05313cd98069cb71adac3483c",
       "size": 15016830,
       "side": "both",
-      "stamp": "2026-10-06T15:13:35Z"
+      "stamp": "2026-10-06T17:41:13Z"
     },
     {
       "file": "chunkactivitytracker-fabric-1.0.1-1.21.1.jar",
       "sha1": "df78114c13c3ce53de4413de8f22dcc7aec543d5",
       "size": 987006,
       "side": "both",
-      "stamp": "2026-10-06T15:13:36Z"
+      "stamp": "2026-10-06T17:41:19Z"
     },
     {
       "file": "chunksending-fabric-1.21-2.8.jar",
       "sha1": "9b8200d4127d5bbb4dfcff66eb6cd22a8df33e9f",
       "size": 10986,
       "side": "both",
-      "stamp": "2026-10-06T15:13:36Z"
+      "stamp": "2026-10-06T17:41:19Z"
     },
     {
       "file": "citresewn-1.2.2+1.21.jar",
       "sha1": "5569769f66eda6d51ca3ae56d58d5a4657f19ef9",
       "size": 396723,
       "side": "both",
-      "stamp": "2026-10-06T15:13:37Z"
+      "stamp": "2026-10-06T17:41:21Z"
     },
     {
       "file": "clientcrafting-fabric-1.21-2.1.jar",
       "sha1": "7a2029edfbdafbe21a1f636067ff7cb129c67e90",
       "size": 6870,
       "side": "both",
-      "stamp": "2026-10-06T15:13:37Z"
+      "stamp": "2026-10-06T17:41:22Z"
     },
     {
       "file": "clientsort-fabric-2.2.1+1.21.1.jar",
       "sha1": "93171f6be324005aa57abe3b9997578ef41e4bf4",
       "size": 341874,
       "side": "both",
-      "stamp": "2026-10-06T15:13:38Z"
+      "stamp": "2026-10-06T17:41:24Z"
     },
     {
       "file": "cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
       "size": 1157166,
       "side": "both",
-      "stamp": "2026-10-06T15:13:39Z"
+      "stamp": "2026-10-06T17:41:32Z"
     },
     {
       "file": "collective-1.21.1-8.22.jar",
       "sha1": "f3f8b8baf461ea8e8664cf1f8fe6593f8073f36d",
       "size": 943020,
       "side": "both",
-      "stamp": "2026-10-06T15:13:41Z"
+      "stamp": "2026-10-06T17:41:38Z"
     },
     {
       "file": "colorwheel-fabric-1.2.2+mc1.21.1.jar",
       "sha1": "126942e306b4c013540966118b8a6282000b0d6c",
       "size": 376336,
       "side": "both",
-      "stamp": "2026-10-06T15:13:41Z"
+      "stamp": "2026-10-06T17:41:41Z"
     },
     {
       "file": "comforts-fabric-9.0.5+1.21.1.jar",
       "sha1": "e47d6c2f0213abed8865dfa51ee05dea86c1baa9",
       "size": 914494,
       "side": "both",
-      "stamp": "2026-10-06T15:13:42Z"
+      "stamp": "2026-10-06T17:41:46Z"
     },
     {
       "file": "configurable-3.5.1+1.21.1-fabric.jar",
       "sha1": "fae27c62a2a1f8eefd90a22ce097ea5877e634ec",
       "size": 545200,
       "side": "both",
-      "stamp": "2026-10-06T15:13:43Z"
+      "stamp": "2026-10-06T17:41:49Z"
     },
     {
       "file": "configured-fabric-1.21.1-2.6.3.jar",
       "sha1": "7d1f43eb143c528e2431d8dcaf2e3007837ddf08",
       "size": 400642,
       "side": "both",
-      "stamp": "2026-10-06T15:13:44Z"
+      "stamp": "2026-10-06T17:41:51Z"
     },
     {
       "file": "connectivity-fabric-1.21-7.6.jar",
       "sha1": "62501d615a3d5192cc1675293fa78f6f11b5e7e9",
       "size": 198109,
       "side": "both",
-      "stamp": "2026-10-06T15:13:44Z"
+      "stamp": "2026-10-06T17:41:53Z"
     },
     {
       "file": "continuity-3.0.0+1.21.jar",
       "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
       "size": 1014044,
       "side": "both",
-      "stamp": "2026-10-06T15:13:45Z"
+      "stamp": "2026-10-06T17:41:58Z"
     },
     {
       "file": "coroutil-fabric-1.21.1-1.3.8.jar",
       "sha1": "1bb71c0df6959b06915d6d62b8040aa0892f08ae",
       "size": 2956258,
       "side": "both",
-      "stamp": "2026-10-06T15:13:48Z"
-    },
-    {
-      "file": "craftedcore-5.8.2-1.21.1-fabric.jar",
-      "sha1": "98e92d6d093b8af7c1119026404721500b8a08a3",
-      "size": 785306,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:42Z"
+      "stamp": "2026-10-06T17:42:12Z"
     },
     {
       "file": "crawl-0.14.9.jar",
       "sha1": "a4bb730d0fb33d4009ece873604d2e07d96a0a94",
       "size": 36975,
       "side": "both",
-      "stamp": "2026-10-06T15:13:52Z"
+      "stamp": "2026-10-06T17:42:33Z"
     },
     {
       "file": "cupboard-fabric-1.21-2.9.jar",
       "sha1": "99810a3d86fe30dc0828b7d0aaf2bee592ca6642",
       "size": 23781,
       "side": "both",
-      "stamp": "2026-10-06T15:13:52Z"
+      "stamp": "2026-10-06T17:42:34Z"
     },
     {
       "file": "cwb-fabric-3.0.0+mc1.21.jar",
       "sha1": "0979201d1d131a3bf0594060c58da7dcb55aded6",
       "size": 81288,
       "side": "both",
-      "stamp": "2026-10-06T15:13:53Z"
+      "stamp": "2026-10-06T17:42:35Z"
     },
     {
       "file": "deeperdarker-fabric-1.21-1.3.3.jar",
       "sha1": "96198f6e850fdc2222c8a2cde4a10aa80a3461a3",
       "size": 17926271,
       "side": "both",
-      "stamp": "2026-10-06T15:14:06Z"
+      "stamp": "2026-10-06T17:43:38Z"
     },
     {
       "file": "despawntweaks-fabric-1.0.0-1.21.1.jar",
       "sha1": "0e2e98db601f3e02df3b54215e05533817b54619",
       "size": 1059167,
       "side": "both",
-      "stamp": "2026-10-06T15:14:08Z"
+      "stamp": "2026-10-06T17:43:44Z"
     },
     {
       "file": "disconnect-packet-fix-fabric-2.0.0.jar",
       "sha1": "2ba7d25b312c09b4b1ad821b42526b8b33652740",
       "size": 8703,
       "side": "both",
-      "stamp": "2026-10-06T15:14:10Z"
+      "stamp": "2026-10-06T17:43:48Z"
     },
     {
       "file": "distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
       "sha1": "9f27028ffa04c01a3ed9703b431677aabaf54398",
       "size": 681921,
       "side": "both",
-      "stamp": "2026-10-06T15:14:10Z"
+      "stamp": "2026-10-06T17:43:52Z"
     },
     {
       "file": "does_it_tick-fabric-1.1.4-1.21.1.jar",
       "sha1": "d9e68cf246c7303196c0f6bf2eab24ca318ec1b7",
       "size": 691857,
       "side": "both",
-      "stamp": "2026-10-06T15:14:17Z"
+      "stamp": "2026-10-06T17:44:15Z"
     },
     {
       "file": "dragonloot-1.1.8.jar",
       "sha1": "7e8dc31fced9ace9d3b16e0b6912a06e0510e422",
       "size": 185181,
       "side": "both",
-      "stamp": "2026-10-06T15:14:17Z"
+      "stamp": "2026-10-06T17:44:16Z"
     },
     {
       "file": "drippyloadingscreen_fabric_3.1.2_MC_1.21.1.jar",
       "sha1": "4b0e76bdb6978e896923aed0421a91d16c1158fb",
       "size": 281831,
       "side": "both",
-      "stamp": "2026-10-06T15:14:18Z"
+      "stamp": "2026-10-06T17:44:18Z"
     },
     {
       "file": "dummmmmmy-1.21-2.0.12-fabric.jar",
       "sha1": "898c480f7c511af88967c9ddd99d0f4bef0bf216",
       "size": 212579,
       "side": "both",
-      "stamp": "2026-10-06T15:14:18Z"
+      "stamp": "2026-10-06T17:44:19Z"
     },
     {
       "file": "earlybedtime-fabric-1.0.0-1.21.1.jar",
       "sha1": "a852f986eebc6f82e14612e7e04ae7ca0e902781",
       "size": 1005854,
       "side": "both",
-      "stamp": "2026-10-06T15:14:31Z"
+      "stamp": "2026-10-06T17:45:21Z"
     },
     {
       "file": "enchdesc-fabric-1.21.1-21.1.9.jar",
       "sha1": "9bda22c7e3ca808ba52c93a99f5918b086f4d6db",
       "size": 83422,
       "side": "both",
-      "stamp": "2026-10-06T15:14:32Z"
+      "stamp": "2026-10-06T17:45:24Z"
     },
     {
-      "file": "entity_model_features-3.3.9-1.21-fabric.jar",
-      "sha1": "5071631eaba8866e0eb323e5145375e7aaa3a157",
-      "size": 639152,
+      "file": "entity_model_features_1.21-fabric-3.0.1.jar",
+      "sha1": "ebbb0bbfd426906c426b6c896c70d18644e2a5e9",
+      "size": 471488,
       "side": "both",
-      "stamp": "2026-10-05T13:02:42Z"
+      "stamp": "2026-10-06T17:45:27Z"
     },
     {
-      "file": "entity_texture_features-7.2.5-1.21-fabric.jar",
-      "sha1": "726958e34edf7b424d7254d73d214caeedd15737",
-      "size": 799948,
+      "file": "entity_texture_features_1.21-fabric-7.0.2.jar",
+      "sha1": "7c595765bd95f9bc4edbbef5070637f568e68924",
+      "size": 697674,
       "side": "both",
-      "stamp": "2026-10-05T13:02:43Z"
+      "stamp": "2026-10-06T17:45:32Z"
     },
     {
       "file": "entityculling-fabric-1.10.1-mc1.21.1.jar",
       "sha1": "6f7234ec1d50f563def59ab05ab44f62c119016b",
       "size": 1574328,
       "side": "both",
-      "stamp": "2026-10-06T15:14:36Z"
+      "stamp": "2026-10-06T17:45:39Z"
     },
     {
       "file": "explorations-fabric-1.21.1-1.6.2.jar",
       "sha1": "f460d869b556a842a7594429b712ef9669b02a7c",
       "size": 220943,
       "side": "both",
-      "stamp": "2026-10-06T15:14:45Z"
+      "stamp": "2026-10-06T17:46:31Z"
     },
     {
       "file": "fabric-api-0.116.11+1.21.1.jar",
       "sha1": "65f4e8b9dcbad6697b2fb32fa0bb937ec5efcd84",
       "size": 2426356,
       "side": "both",
-      "stamp": "2026-10-06T15:14:49Z"
-    },
-    {
-      "file": "fabric-api-0.116.17-1.21.1.jar",
-      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
-      "size": 2452735,
-      "side": "both",
-      "stamp": "2026-10-05T14:51:18Z"
+      "stamp": "2026-10-06T17:46:49Z"
     },
     {
       "file": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
       "sha1": "b6190b247c557c493dc4204121744f289a1d1837",
       "size": 7813444,
       "side": "both",
-      "stamp": "2026-10-06T15:14:59Z"
+      "stamp": "2026-10-06T17:47:29Z"
     },
     {
       "file": "fabric-seasons-2.4.2-BETA+1.21.jar",
       "sha1": "14899b2fd77be1e30fa3b17c6b0da620bb241233",
       "size": 433476,
       "side": "both",
-      "stamp": "2026-10-06T15:14:59Z"
+      "stamp": "2026-10-06T17:47:32Z"
     },
     {
       "file": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
       "sha1": "21d5240e95a5cdda5b33a77f24ab35a3ee4569c8",
       "size": 39100,
       "side": "both",
-      "stamp": "2026-10-06T15:15:00Z"
+      "stamp": "2026-10-06T17:47:32Z"
     },
     {
       "file": "fabric-seasons-extras-1.3.2-BETA+1.21.jar",
       "sha1": "af4ec2b9494929ebe2edcb5c50bdf1f44538ae02",
       "size": 363359,
       "side": "both",
-      "stamp": "2026-10-06T15:15:00Z"
+      "stamp": "2026-10-06T17:47:34Z"
     },
     {
       "file": "fabrication-3.6.6+1.21.jar",
       "sha1": "fc8497f9eb4c1ba267d4c8bc699f1f8cce7ccb63",
       "size": 1408525,
       "side": "both",
-      "stamp": "2026-10-06T15:14:50Z"
+      "stamp": "2026-10-06T17:46:57Z"
     },
     {
       "file": "fabrishot-1.14.1.jar",
       "sha1": "c8afc690bb3508df7db793f37e1fe5407dba2f22",
       "size": 51708,
       "side": "both",
-      "stamp": "2026-10-06T15:15:01Z"
+      "stamp": "2026-10-06T17:47:35Z"
     },
     {
       "file": "fakedate-1.0.4+1.21.11-fabric.jar",
       "sha1": "e27f3f5923131662a3c8c9831df18eeed4b67b48",
       "size": 1039882,
       "side": "both",
-      "stamp": "2026-10-06T15:15:02Z"
+      "stamp": "2026-10-06T17:47:41Z"
     },
     {
       "file": "fancymenu_fabric_3.9.0_MC_1.21.1.jar",
       "sha1": "6d9214fdb7e23d26ff90bf81f8f2be3cb52f954e",
       "size": 25810707,
       "side": "both",
-      "stamp": "2026-10-06T15:15:18Z"
+      "stamp": "2026-10-06T17:50:10Z"
     },
     {
       "file": "farmers-cutting-biomes-o-plenty-1.21-2.0.0-fabric.jar",
       "sha1": "a239f35fb953ddb7e94786bb03fe1718dcb7d91f",
       "size": 53130,
       "side": "both",
-      "stamp": "2026-10-06T15:15:18Z"
+      "stamp": "2026-10-06T17:50:11Z"
     },
     {
       "file": "farsight-fabric-1.21-4.5.jar",
       "sha1": "3d7ebb35ac03724ed2c73d399392228d1de40159",
       "size": 371550,
       "side": "both",
-      "stamp": "2026-10-06T15:15:20Z"
+      "stamp": "2026-10-06T17:50:33Z"
     },
     {
       "file": "fast-ip-ping-v1.0.11-mc1.21.1-fabric.jar",
       "sha1": "219fa634a1087af5cb8af30e5f5b43613f8ccc89",
       "size": 10198,
       "side": "both",
-      "stamp": "2026-10-06T15:15:22Z"
+      "stamp": "2026-10-06T17:50:34Z"
     },
     {
       "file": "fastasyncworldsave-fabric-1.21-2.6.jar",
       "sha1": "c32deb932b794579fe88fdb30afaf3df9839f266",
       "size": 10448,
       "side": "both",
-      "stamp": "2026-10-06T15:15:21Z"
+      "stamp": "2026-10-06T17:50:34Z"
     },
     {
       "file": "fasterrandom-5.1.0.jar",
       "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73",
       "size": 20697,
       "side": "both",
-      "stamp": "2026-10-06T15:15:21Z"
+      "stamp": "2026-10-06T17:50:34Z"
     },
     {
       "file": "fastpaintings-1.21-1.3.0-fabric.jar",
       "sha1": "fecb10083d10d2933c6f6e9df1407d8927f9a8e7",
       "size": 155624,
       "side": "both",
-      "stamp": "2026-10-06T15:15:23Z"
+      "stamp": "2026-10-06T17:50:36Z"
     },
     {
       "file": "ferritecore-7.0.3-fabric.jar",
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
       "size": 123450,
       "side": "both",
-      "stamp": "2026-10-06T15:15:23Z"
+      "stamp": "2026-10-06T17:50:38Z"
     },
     {
       "file": "foolproof-fabric-1.0.4-1.21.1.jar",
       "sha1": "89b0c1e2864bc19989fd70ce474c7d07e51877c6",
       "size": 1038538,
       "side": "both",
-      "stamp": "2026-10-06T15:15:24Z"
+      "stamp": "2026-10-06T17:50:42Z"
     },
     {
       "file": "formations-1.0.2-fabric-mc1.21.jar",
       "sha1": "f859445a8d6830a768411dbe916edd6af45c708d",
       "size": 279097,
       "side": "both",
-      "stamp": "2026-10-06T15:15:25Z"
+      "stamp": "2026-10-06T17:50:47Z"
     },
     {
       "file": "formationsnether-1.0.5-mc1.21+.jar",
       "sha1": "12b69c1cd22bbbe8c5888a030bef791b992b0d39",
       "size": 942046,
       "side": "both",
-      "stamp": "2026-10-06T15:15:26Z"
+      "stamp": "2026-10-06T17:50:52Z"
     },
     {
       "file": "formationsoverworld-1.0.5-mc1.21+.jar",
       "sha1": "edbc169c78f9f1cdf5233e996f12b21e7e1cdf18",
       "size": 873370,
       "side": "both",
-      "stamp": "2026-10-06T15:15:27Z"
+      "stamp": "2026-10-06T17:50:59Z"
     },
     {
       "file": "framework-fabric-1.21.1-0.13.11.jar",
       "sha1": "87ce6c5c312da043e823e9407a04d307b5974d06",
       "size": 1647903,
       "side": "both",
-      "stamp": "2026-10-06T15:15:28Z"
+      "stamp": "2026-10-06T17:51:07Z"
     },
     {
       "file": "friendsandfoes-fabric-4.0.25+mc1.21.1.jar",
       "sha1": "9e016a645a5eae1a05137a5e445abccfaece2227",
       "size": 5217241,
       "side": "both",
-      "stamp": "2026-10-06T15:15:29Z"
+      "stamp": "2026-10-06T17:51:36Z"
     },
     {
       "file": "frostiful-2.3.1+1.21.1.jar",
       "sha1": "fa694fcc30d23b98a56d35c3b73a3b5749c695f6",
       "size": 2445127,
       "side": "both",
-      "stamp": "2026-10-06T15:15:31Z"
+      "stamp": "2026-10-06T17:51:49Z"
     },
     {
       "file": "ftb-filter-system-fabric-21.1.4.jar",
       "sha1": "1d223a1dd53146bd55f66c164f600011478e5ae2",
       "size": 210197,
       "side": "both",
-      "stamp": "2026-10-06T15:15:31Z"
+      "stamp": "2026-10-06T17:51:50Z"
     },
     {
       "file": "ftb-library-fabric-2101.1.31.jar",
       "sha1": "18538c0a068a254a5dbf953d39d5017393b041d6",
       "size": 1406585,
       "side": "both",
-      "stamp": "2026-10-06T15:15:32Z"
+      "stamp": "2026-10-06T17:52:00Z"
     },
     {
       "file": "ftb-quests-fabric-2101.1.24.jar",
       "sha1": "5890b1c0a1077a0299e5b69db102c638354ebab8",
       "size": 1464911,
       "side": "both",
-      "stamp": "2026-10-06T15:15:32Z"
+      "stamp": "2026-10-06T17:52:10Z"
     },
     {
       "file": "ftb-teams-fabric-2101.1.10.jar",
       "sha1": "8c80154145c6cccb1c42f9558d9e59bed403e385",
       "size": 298292,
       "side": "both",
-      "stamp": "2026-10-06T15:15:33Z"
+      "stamp": "2026-10-06T17:52:12Z"
     },
     {
       "file": "ftb-xmod-compat-fabric-21.1.8.jar",
       "sha1": "14daa2529e0134fbe418b8c5f7d4dc3870ab42c3",
       "size": 110392,
       "side": "both",
-      "stamp": "2026-10-06T15:15:33Z"
+      "stamp": "2026-10-06T17:52:13Z"
     },
     {
       "file": "fullstackwatchdog-1.0.1+1.19.2-fabric.jar",
       "sha1": "f4b733093f52e01336d451d089edf19f812320c3",
       "size": 14365,
       "side": "both",
-      "stamp": "2026-10-06T15:15:34Z"
+      "stamp": "2026-10-06T17:52:13Z"
     },
     {
       "file": "fzzy_config-0.7.6+1.21.jar",
       "sha1": "cff21f254e911a323fe49015d12e548d3e3b8d7c",
       "size": 2365335,
       "side": "both",
-      "stamp": "2026-10-06T15:15:35Z"
+      "stamp": "2026-10-06T17:52:27Z"
     },
     {
       "file": "geckolib-fabric-1.21.1-4.8.4.jar",
       "sha1": "4285fbb6222b5b49869aea8a3a2f67c086b1c8bc",
       "size": 653722,
       "side": "both",
-      "stamp": "2026-10-06T15:15:36Z"
+      "stamp": "2026-10-06T17:52:31Z"
+    },
+    {
+      "file": "geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
+      "size": 664463,
+      "side": "both",
+      "stamp": "2026-10-06T18:26:50Z"
     },
     {
       "file": "glow_up-fabric-1.2.1-1.21-1.21.1-fabric.jar",
       "sha1": "db6b556c6fc1e6993777466d5c2a80ff3bb0c946",
       "size": 249059,
       "side": "both",
-      "stamp": "2026-10-06T15:15:37Z"
+      "stamp": "2026-10-06T17:52:40Z"
     },
     {
       "file": "goblintraders-fabric-1.21.1-1.11.2.jar",
       "sha1": "b8b2e0df693cb7c4aa2338dd916a7066f988109a",
       "size": 462459,
       "side": "both",
-      "stamp": "2026-10-06T15:15:38Z"
+      "stamp": "2026-10-06T17:52:43Z"
     },
     {
       "file": "gpumemleakfix-fabric-1.21-1.8.jar",
       "sha1": "416bca48280bbbb824e595d12fc694cc7488cfc4",
       "size": 6016,
       "side": "both",
-      "stamp": "2026-10-06T15:15:38Z"
+      "stamp": "2026-10-06T17:52:44Z"
     },
     {
       "file": "handcrafted-fabric-1.21.1-4.0.3.jar",
       "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6",
       "size": 7127377,
       "side": "both",
-      "stamp": "2026-10-06T15:15:40Z"
+      "stamp": "2026-10-06T17:53:29Z"
     },
     {
       "file": "hardcover-3.0.0+1.21.jar",
       "sha1": "811b0302800c889035435106cd9caded1deb83d2",
       "size": 53675,
       "side": "both",
-      "stamp": "2026-10-06T15:15:41Z"
+      "stamp": "2026-10-06T17:53:29Z"
     },
     {
       "file": "horse-breeding-fix-fabric-1.21.x-1.1.1.jar",
       "sha1": "3e205e064b963103e85273f427eeb38b73739d24",
       "size": 13234,
       "side": "both",
-      "stamp": "2026-10-06T15:15:43Z"
+      "stamp": "2026-10-06T17:53:36Z"
     },
     {
       "file": "hrtffix-fabric-1.0.0.jar",
       "sha1": "f31754f2cdcd28a42283b9d3a25909b98cd59064",
       "size": 9862,
       "side": "both",
-      "stamp": "2026-10-06T15:15:43Z"
+      "stamp": "2026-10-06T17:53:36Z"
     },
     {
       "file": "ijmtweaks-1.4.0+1.21.jar",
       "sha1": "b4a2516c48f33dbed4179f8599f36da2029f8013",
       "size": 3001090,
       "side": "both",
-      "stamp": "2026-10-06T15:15:45Z"
+      "stamp": "2026-10-06T17:53:50Z"
     },
     {
       "file": "immersivearmorhud-fabric-1.0.1-1.21.1.jar",
       "sha1": "19ba499259f1a5cd6a21d934513278b0164c053e",
       "size": 999331,
       "side": "both",
-      "stamp": "2026-10-06T15:15:48Z"
+      "stamp": "2026-10-06T17:54:08Z"
     },
     {
       "file": "immersivelanterns-fabric-1.0.6-1.21.1.jar",
       "sha1": "a7a2412838532a967ab4c7dc96cc61fbd4055c26",
       "size": 802245,
       "side": "both",
-      "stamp": "2026-10-06T15:15:49Z"
+      "stamp": "2026-10-06T17:54:12Z"
     },
     {
       "file": "immersivemessages-fabric-1.0.18-1.21.1.jar",
       "sha1": "52d3f869f5ab4836485d9df4a25319d750522ef9",
       "size": 1946502,
       "side": "both",
-      "stamp": "2026-10-06T15:15:50Z"
+      "stamp": "2026-10-06T17:54:19Z"
     },
     {
       "file": "immersivetips-fabric-1.0.1-1.21.1.jar",
       "sha1": "3e7a5698d5eee65b51d53c12eb76f422081063be",
       "size": 947768,
       "side": "both",
-      "stamp": "2026-10-06T15:15:51Z"
+      "stamp": "2026-10-06T17:54:22Z"
     },
     {
       "file": "improved-village-placement-1.1.2.jar",
       "sha1": "5225cdd0f18cabd290551ca93125dbdceb7a7755",
       "size": 34332,
       "side": "both",
-      "stamp": "2026-10-06T15:15:51Z"
+      "stamp": "2026-10-06T17:54:23Z"
     },
     {
       "file": "indium-1.0.35+mc1.21.jar",
       "sha1": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb",
       "size": 105000,
       "side": "both",
-      "stamp": "2026-10-06T15:15:52Z"
+      "stamp": "2026-10-06T17:54:23Z"
     },
     {
       "file": "inmis-2.8.2-1.21.1.jar",
       "sha1": "466363e2abf837ed7b0a4543a2c1d5bbe954cffb",
       "size": 133522,
       "side": "both",
-      "stamp": "2026-10-06T15:15:52Z"
+      "stamp": "2026-10-06T17:54:24Z"
     },
     {
       "file": "inmisaddon-1.0.6.jar",
       "sha1": "89f98095424f5212399c61e84434cb553af16c44",
       "size": 31849,
       "side": "both",
-      "stamp": "2026-10-06T15:15:53Z"
+      "stamp": "2026-10-06T17:54:25Z"
     },
     {
       "file": "iris-fabric-1.8.8+mc1.21.1.jar",
       "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
       "size": 2690177,
       "side": "both",
-      "stamp": "2026-10-06T15:43:43Z"
+      "stamp": "2026-10-06T17:54:39Z"
     },
     {
       "file": "iris_shader_folder-1.3.1-fabric.jar",
       "sha1": "e8fd58f6695db12d445270ae5bdd112050f6b91e",
       "size": 203145,
       "side": "both",
-      "stamp": "2026-10-06T15:43:42Z"
+      "stamp": "2026-10-06T17:54:26Z"
     },
     {
       "file": "jamlib-fabric-1.3.6+1.21.1.jar",
       "sha1": "06812c82db4a195853fd29cc03c78bd690bac6ea",
       "size": 187766,
       "side": "both",
-      "stamp": "2026-10-06T15:15:57Z"
+      "stamp": "2026-10-06T17:54:49Z"
     },
     {
       "file": "jei-1.21.1-fabric-19.27.0.340.jar",
       "sha1": "7a7d5546db421639cd89b7807e9bb6def176cf89",
       "size": 1561711,
       "side": "both",
-      "stamp": "2026-10-06T15:15:58Z"
+      "stamp": "2026-10-06T17:54:54Z"
     },
     {
       "file": "justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar",
       "sha1": "fc416978736aa76e11485c7293bc93badaf9671f",
       "size": 86574,
       "side": "both",
-      "stamp": "2026-10-06T15:15:58Z"
+      "stamp": "2026-10-06T17:54:55Z"
     },
     {
       "file": "justzoom_fabric_2.1.0_MC_1.21.1.jar",
       "sha1": "5ee4e825eb9fb2b7795ade1a99b5f0626a5a3d9a",
       "size": 196476,
       "side": "both",
-      "stamp": "2026-10-06T15:15:59Z"
-    },
-    {
-      "file": "jvs-fabric-1.21.1-0.2.2.jar",
-      "sha1": "d0b2a83453cc3145307f59a5f88971a891515aa6",
-      "size": 930963,
-      "side": "both",
-      "stamp": "2026-10-05T13:02:35Z"
+      "stamp": "2026-10-06T17:54:57Z"
     },
     {
       "file": "kleeslabs-fabric-1.21.1-21.1.10.jar",
       "sha1": "8ed9ca8909659e06a6a2d6062ef1cad878a47431",
       "size": 311250,
       "side": "both",
-      "stamp": "2026-10-06T15:16:01Z"
+      "stamp": "2026-10-06T17:55:03Z"
     },
     {
       "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
       "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
       "size": 786695,
       "side": "both",
-      "stamp": "2026-10-06T15:16:02Z"
+      "stamp": "2026-10-06T17:55:06Z"
     },
     {
       "file": "krypton-0.2.8.jar",
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
       "size": 161045,
       "side": "both",
-      "stamp": "2026-10-06T15:16:02Z"
+      "stamp": "2026-10-06T17:55:07Z"
     },
     {
       "file": "language-reload-1.7.6+1.21.1.jar",
       "sha1": "95c1266f43e330d4848dcf2e11a6be98a8990ce5",
       "size": 75091,
       "side": "both",
-      "stamp": "2026-10-06T15:16:03Z"
+      "stamp": "2026-10-06T17:55:08Z"
     },
     {
       "file": "leaderboards-1.21.1-Fabric-2.0.0.jar",
       "sha1": "24f6bf712bec07dfc58ba9727e3ffed004b2cb97",
       "size": 92061,
       "side": "both",
-      "stamp": "2026-10-06T15:16:03Z"
+      "stamp": "2026-10-06T17:55:08Z"
     },
     {
       "file": "lithium-fabric-0.15.3+mc1.21.1.jar",
       "sha1": "c4a1c2b6de9915ac77ae46a005509d4acf09535d",
       "size": 797398,
       "side": "both",
-      "stamp": "2026-10-06T15:16:05Z"
+      "stamp": "2026-10-06T17:55:17Z"
     },
     {
       "file": "lithostitched-1.7.2-fabric-21.1.jar",
       "sha1": "e1d9eceb45a6665d93120fa541abd664c3ac0944",
       "size": 785445,
       "side": "both",
-      "stamp": "2026-10-06T15:16:06Z"
+      "stamp": "2026-10-06T17:55:23Z"
     },
     {
       "file": "lmft-1.1.1+1.21.9-fabric.jar",
       "sha1": "9ec52b054e91c7f0a0a37edd4b2a3832699135dc",
       "size": 78180,
       "side": "both",
-      "stamp": "2026-10-06T15:16:06Z"
+      "stamp": "2026-10-06T17:55:25Z"
     },
     {
       "file": "loadingprotection-1.0.2-fabric-1.21.1.jar",
       "sha1": "b3b0f65dab6534ec2a18a5754805080f3916ddf7",
       "size": 21288,
       "side": "both",
-      "stamp": "2026-10-06T15:16:07Z"
+      "stamp": "2026-10-06T17:55:25Z"
     },
     {
       "file": "logbegone-fabric-1.21.1-1.0.3.jar",
       "sha1": "c50c365a1d1da7ab38064a09687ad3a482e5e651",
       "size": 73593,
       "side": "both",
-      "stamp": "2026-10-06T15:16:07Z"
+      "stamp": "2026-10-06T17:55:26Z"
     },
     {
       "file": "lootintegration_wda-1.8.jar",
       "sha1": "d5b8cd7712e9c6db2202b77e3ce3c115640b8395",
       "size": 8134,
       "side": "both",
-      "stamp": "2026-10-06T15:16:08Z"
+      "stamp": "2026-10-06T17:55:27Z"
     },
     {
       "file": "lootintegrations-fabric-1.21-4.7.jar",
       "sha1": "c49967152f302b18a1e0e2e556a729dee8b477b4",
       "size": 40212,
       "side": "both",
-      "stamp": "2026-10-06T15:16:09Z"
+      "stamp": "2026-10-06T17:55:29Z"
     },
     {
       "file": "lootintegrations_formations-1.3.jar",
       "sha1": "9b8ca992f9cfb6b17a31d7ac27407d838478c792",
       "size": 5950,
       "side": "both",
-      "stamp": "2026-10-06T15:16:08Z"
+      "stamp": "2026-10-06T17:55:27Z"
     },
     {
       "file": "lootintegrations_moog-2.0.jar",
       "sha1": "35ad46f5f7a23ec1c20464f7a1baf1dfeed9efe6",
       "size": 6596,
       "side": "both",
-      "stamp": "2026-10-06T15:16:08Z"
+      "stamp": "2026-10-06T17:55:28Z"
     },
     {
       "file": "lootintegrations_yungs-1.5.jar",
       "sha1": "9487c23169689396e3a79613953d4af341c37bd0",
       "size": 5964,
       "side": "both",
-      "stamp": "2026-10-06T15:16:09Z"
+      "stamp": "2026-10-06T17:55:28Z"
     },
     {
       "file": "lukis-crazy-chambers-1.0.3.jar",
       "sha1": "146a4cda28a46ad4ed09083e4e37da9473a1f7af",
       "size": 2185425,
       "side": "both",
-      "stamp": "2026-10-06T15:16:11Z"
+      "stamp": "2026-10-06T17:55:46Z"
     },
     {
       "file": "luna_minecraft-fabric-5.3.1.jar",
       "sha1": "64c82ace553a467666a262cc0dccf23bc1f64cd3",
       "size": 575212,
       "side": "both",
-      "stamp": "2026-10-06T15:16:11Z"
+      "stamp": "2026-10-06T17:55:50Z"
     },
     {
       "file": "macos-input-fixes-1.12.jar",
       "sha1": "fdf943895dfe518eb0a07c30d38bb3d4dfaffc1f",
       "size": 125647,
       "side": "both",
-      "stamp": "2026-10-06T15:16:12Z"
+      "stamp": "2026-10-06T17:55:50Z"
     },
     {
       "file": "mapdistancefix-fabric-1.1.1+mc1.21-1.21.11.jar",
       "sha1": "2bc2f8bd72e779226ae3aa117e93eb25e8ea47d2",
       "size": 35537,
       "side": "both",
-      "stamp": "2026-10-06T15:16:13Z"
+      "stamp": "2026-10-06T17:55:52Z"
     },
     {
       "file": "melody_fabric_1.0.10_MC_1.21.jar",
       "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
       "size": 188035,
       "side": "both",
-      "stamp": "2026-10-06T15:16:13Z"
+      "stamp": "2026-10-06T17:55:54Z"
     },
     {
       "file": "memorysettings-fabric-1.21-6.0.jar",
       "sha1": "a0a39f35bbe7f348096288683892014b3dd66438",
       "size": 22622,
       "side": "both",
-      "stamp": "2026-10-06T15:16:14Z"
+      "stamp": "2026-10-06T17:55:54Z"
     },
     {
       "file": "midnightlib-fabric-1.9.3+1.21.1.jar",
       "sha1": "6595a90351e827b99b36fa2c6ef1dde1a4c8fdf1",
       "size": 58781,
       "side": "both",
-      "stamp": "2026-10-06T15:16:14Z"
+      "stamp": "2026-10-06T17:55:56Z"
     },
     {
       "file": "miningspeedtooltips-fabric-1.0.0-1.21.1.jar",
       "sha1": "7002618f78b740920056f09bc129a5b8d89a7421",
       "size": 450783,
       "side": "both",
-      "stamp": "2026-10-06T15:16:15Z"
+      "stamp": "2026-10-06T17:56:00Z"
     },
     {
       "file": "misctweaks-1.3.0+1.21.1-fabric.jar",
       "sha1": "59aced6b2189f7c1eac604ad3d17dbff26cdf902",
       "size": 185328,
       "side": "both",
-      "stamp": "2026-10-06T15:16:15Z"
+      "stamp": "2026-10-06T17:56:02Z"
     },
     {
       "file": "missingmodschecker-fabric-1.0.1-1.21.1.jar",
       "sha1": "9816bc85464f57553457a26c5bd404023e8a99b7",
       "size": 1004094,
       "side": "both",
-      "stamp": "2026-10-06T15:16:16Z"
+      "stamp": "2026-10-06T17:56:10Z"
     },
     {
       "file": "mixintrace-1.1.1+1.17.jar",
       "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
       "size": 36039,
       "side": "both",
-      "stamp": "2026-10-06T15:16:17Z"
+      "stamp": "2026-10-06T17:56:10Z"
     },
     {
       "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
       "size": 471258,
       "side": "both",
-      "stamp": "2026-10-06T15:16:17Z"
+      "stamp": "2026-10-06T17:56:14Z"
     },
     {
-      "file": "modmenu-11.0.5-1.21.1.jar",
-      "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
-      "size": 975846,
+      "file": "modmenu-11.0.4.jar",
+      "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
+      "size": 973059,
       "side": "both",
-      "stamp": "2026-10-05T13:02:37Z"
+      "stamp": "2026-10-06T17:56:21Z"
     },
     {
       "file": "modpack-update-checker-1.21.1-fabric-0.15.6.jar",
       "sha1": "c6965ba71753da1ae98af11e58b680508811483d",
       "size": 422595,
       "side": "both",
-      "stamp": "2026-10-06T15:16:19Z"
+      "stamp": "2026-10-06T17:56:23Z"
     },
     {
       "file": "moogs_structures-fabric-1.21.1-2.0.4.jar",
       "sha1": "1f98cf5bb6621aeed98b01fd5db4f2b8b1398c22",
       "size": 244626,
       "side": "both",
-      "stamp": "2026-10-06T15:16:19Z"
+      "stamp": "2026-10-06T17:56:25Z"
     },
     {
       "file": "moonlight-fabric-1.21.1-3.0.5.jar",
       "sha1": "8a7c6efb1788d78a69effa13e6e2abecbb0f2222",
       "size": 1609763,
       "side": "both",
-      "stamp": "2026-10-06T15:16:27Z"
+      "stamp": "2026-10-06T17:57:32Z"
     },
     {
       "file": "mousetweaks-x-accessories-fix-1.3.0.jar",
       "sha1": "0f46e59ac920ca1aa656b0702f7d0c82344abb82",
       "size": 11954,
       "side": "both",
-      "stamp": "2026-10-06T15:16:29Z"
+      "stamp": "2026-10-06T17:57:42Z"
     },
     {
       "file": "naturalist-2.0.5-fabric-1.21.1.jar",
       "sha1": "1601db1e4ad2d54484f59c8410d813debcb629b2",
       "size": 11256494,
       "side": "both",
-      "stamp": "2026-10-05T13:02:38Z"
+      "stamp": "2026-10-06T18:26:37Z"
     },
     {
       "file": "naturespirit-2.2.5-1.21.1.jar",
       "sha1": "e4674a75c6fa1ab70629caa2787d4b4179a4ccda",
       "size": 19149927,
       "side": "both",
-      "stamp": "2026-10-06T15:16:40Z"
+      "stamp": "2026-10-06T18:00:05Z"
     },
     {
       "file": "neobeefix-1.21.1-2.0.0.jar",
       "sha1": "29f2d5fd878a9088ca2d1da594bd4964bb3c12df",
       "size": 37607,
       "side": "both",
-      "stamp": "2026-10-06T15:16:40Z"
+      "stamp": "2026-10-06T18:00:06Z"
     },
     {
       "file": "neruina-3.3.1+1.21.1-fabric.jar",
       "sha1": "28b0250e152546bd880b83cfbe4a15dca9786610",
       "size": 859194,
       "side": "both",
-      "stamp": "2026-10-06T15:16:41Z"
+      "stamp": "2026-10-06T18:00:10Z"
     },
     {
       "file": "netherportalfix-fabric-1.21.1-21.1.3.jar",
       "sha1": "970677295778926b09c3539b38e884854bc4d3c7",
       "size": 213294,
       "side": "both",
-      "stamp": "2026-10-06T15:16:42Z"
+      "stamp": "2026-10-06T18:00:14Z"
     },
     {
       "file": "nicer-skies-1.4.1+1.21.1.jar",
       "sha1": "101d38784f50116f58044617acf1ace56e408ce7",
       "size": 186136,
       "side": "both",
-      "stamp": "2026-10-06T15:16:43Z"
+      "stamp": "2026-10-06T18:00:16Z"
     },
     {
       "file": "no-report-button-fabric-1.6.1.jar",
       "sha1": "a834cedc5e897d9e7371d0197a907979e4b98805",
       "size": 10893,
       "side": "both",
-      "stamp": "2026-10-06T15:16:44Z"
+      "stamp": "2026-10-06T18:00:19Z"
     },
     {
       "file": "notenoughanimations-fabric-1.12.2-mc1.21.1.jar",
       "sha1": "3fc300f0cf1bbfad9b9a887e32d9a031a08a613f",
       "size": 1927981,
       "side": "both",
-      "stamp": "2026-10-06T15:16:45Z"
+      "stamp": "2026-10-06T18:00:36Z"
     },
     {
       "file": "open-parties-and-claims-fabric-1.21.1-0.26.2.jar",
       "sha1": "9a1f26b5b69f209387e3d9903410cfa09c487e14",
       "size": 1655927,
       "side": "both",
-      "stamp": "2026-10-06T15:16:47Z"
+      "stamp": "2026-10-06T18:00:49Z"
     },
     {
       "file": "owo-lib-0.12.15.4+1.21.jar",
       "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
       "size": 1183559,
       "side": "both",
-      "stamp": "2026-10-06T15:16:48Z"
+      "stamp": "2026-10-06T18:00:57Z"
     },
     {
       "file": "packanalytics-fabric-1.0.4-1.21.1.jar",
       "sha1": "33018c1d3f755dfd3310d8ab60f92c467f3e7ef7",
       "size": 1322702,
       "side": "both",
-      "stamp": "2026-10-06T15:16:50Z"
+      "stamp": "2026-10-06T18:01:08Z"
     },
     {
       "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
       "size": 46623,
       "side": "both",
-      "stamp": "2026-10-06T15:16:50Z"
+      "stamp": "2026-10-06T18:01:08Z"
     },
     {
       "file": "particle_core-0.3.3+1.21.jar",
       "sha1": "21134697c26b73cde41d1575c725ab30736d6b17",
       "size": 147812,
       "side": "both",
-      "stamp": "2026-10-06T15:16:50Z"
+      "stamp": "2026-10-06T18:01:10Z"
     },
     {
       "file": "placeholder-api-2.4.2+1.21.jar",
       "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
       "size": 232325,
       "side": "both",
-      "stamp": "2026-10-06T15:16:55Z"
+      "stamp": "2026-10-06T18:01:26Z"
     },
     {
       "file": "polymorph-fabric-1.1.0+1.21.1.jar",
       "sha1": "e4f9ec40058c07f263d19b21e438b5204ea4dc22",
       "size": 320928,
       "side": "both",
-      "stamp": "2026-10-06T15:16:57Z"
+      "stamp": "2026-10-06T18:01:34Z"
+    },
+    {
+      "file": "polytone-1.21-4.5.0-fabric.jar",
+      "sha1": "1efca49baa0aea7f4799139e4242da8e24154e54",
+      "size": 1644516,
+      "side": "both",
+      "stamp": "2026-10-06T18:26:45Z"
     },
     {
       "file": "powerfix-1.0.0+1.21.jar",
       "sha1": "7edcc5355eb7af445befc1e6107466f9a112a776",
       "size": 9189,
       "side": "both",
-      "stamp": "2026-10-06T15:16:57Z"
+      "stamp": "2026-10-06T18:01:34Z"
     },
     {
       "file": "prickle-fabric-1.21.1-21.1.11.jar",
       "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2",
       "size": 87229,
       "side": "both",
-      "stamp": "2026-10-06T15:16:57Z"
+      "stamp": "2026-10-06T18:01:35Z"
     },
     {
       "file": "puffish_biome_dither-1.0.0-1.21-fabric.jar",
       "sha1": "b788259bd01fef199024381cf2fce18934bbd251",
       "size": 4567,
       "side": "both",
-      "stamp": "2026-10-06T15:16:58Z"
+      "stamp": "2026-10-06T18:01:35Z"
     },
     {
       "file": "puzzle-fabric-2.3.0+1.21.1.jar",
       "sha1": "6e098581076a312c608f00912e57ed95cb42b51e",
       "size": 144462,
       "side": "both",
-      "stamp": "2026-10-06T15:16:58Z"
+      "stamp": "2026-10-06T18:01:36Z"
     },
     {
       "file": "randomenchantfix-fabric-1.0.1-1.21.1.jar",
       "sha1": "066f4e328d0ed22f5602b40c0db8119f73c46bef",
       "size": 926470,
       "side": "both",
-      "stamp": "2026-10-06T15:17:01Z"
+      "stamp": "2026-10-06T18:01:49Z"
     },
     {
       "file": "reacharound+1.21-1.3.1.jar",
       "sha1": "4d56d0a9beac6de9d74dbd6b52291e9da8f5cc00",
       "size": 26590,
       "side": "both",
-      "stamp": "2026-10-06T15:17:01Z"
+      "stamp": "2026-10-06T18:01:49Z"
     },
     {
       "file": "recipeessentials-fabric-1.21-4.1.jar",
       "sha1": "e7194b8c473b69c5d5106295abfa37e0612c49b0",
       "size": 47797,
       "side": "both",
-      "stamp": "2026-10-06T15:17:02Z"
+      "stamp": "2026-10-06T18:01:50Z"
     },
     {
       "file": "redirected-fabric-1.0.0-1.21.1.jar",
       "sha1": "011d12caee56de47fa3f89b84c8d19461a123c2c",
       "size": 213687,
       "side": "both",
-      "stamp": "2026-10-06T15:17:02Z"
+      "stamp": "2026-10-06T18:01:51Z"
     },
     {
       "file": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
       "sha1": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
       "size": 81067,
       "side": "both",
-      "stamp": "2026-10-06T15:43:35Z"
+      "stamp": "2026-10-06T18:01:52Z"
     },
     {
       "file": "repurposed_structures-7.5.20+1.21.1-fabric.jar",
       "sha1": "70e3912bc5dac51ec782402c7df5a300438c64e7",
       "size": 8196355,
       "side": "both",
-      "stamp": "2026-10-06T15:17:09Z"
+      "stamp": "2026-10-06T18:02:48Z"
     },
     {
       "file": "reset_controls_confirmation-fabric-1.0.0-1.21.1.jar",
       "sha1": "a4850b4ba3e1355b58443bd1a15c6595d14b72e1",
       "size": 9382,
       "side": "both",
-      "stamp": "2026-10-06T15:17:10Z"
+      "stamp": "2026-10-06T18:02:49Z"
     },
     {
       "file": "resourcefulconfig-fabric-1.21-3.0.11.jar",
       "sha1": "f6a0df7cf464d1c94458ef075bead82033add9c9",
       "size": 345396,
       "side": "both",
-      "stamp": "2026-10-06T15:17:10Z"
+      "stamp": "2026-10-06T18:02:52Z"
     },
     {
       "file": "resourcefullib-fabric-1.21-3.0.12.jar",
       "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
       "size": 485586,
       "side": "both",
-      "stamp": "2026-10-06T15:17:11Z"
+      "stamp": "2026-10-06T18:02:55Z"
     },
     {
       "file": "rewithered-1.0.8+1.21.1-fabric.jar",
       "sha1": "25e599e29344b1eed681c73e3037e22532f57c94",
       "size": 105320,
       "side": "both",
-      "stamp": "2026-10-06T15:17:12Z"
+      "stamp": "2026-10-06T18:02:57Z"
     },
     {
       "file": "rightclickharvest-fabric-4.6.1+1.21.1.jar",
       "sha1": "f987a5a1963b5e1dd37a3b4c543369a2b17358a8",
       "size": 286902,
       "side": "both",
-      "stamp": "2026-10-06T15:17:12Z"
+      "stamp": "2026-10-06T18:02:59Z"
     },
     {
       "file": "sawmill-1.21-1.7.2-fabric.jar",
       "sha1": "c00049aeac7b51a1e6468a6260b1f141abc66c8b",
       "size": 520182,
       "side": "both",
-      "stamp": "2026-10-06T15:17:13Z"
+      "stamp": "2026-10-06T18:03:03Z"
     },
     {
       "file": "simple_snowy_fix-1.21.1-1.21.11-2.1.9-fabric.jar",
       "sha1": "08dd6c0de036c17e6843e16e780dd9396855651d",
       "size": 120154,
       "side": "both",
-      "stamp": "2026-10-06T15:17:14Z"
+      "stamp": "2026-10-06T18:03:07Z"
     },
     {
       "file": "skinlayers3d-fabric-1.11.1-mc1.21.1.jar",
       "sha1": "53909c6819b5cb0204bb1164182432f799097a3f",
       "size": 1970159,
       "side": "both",
-      "stamp": "2026-10-06T15:17:17Z"
+      "stamp": "2026-10-06T18:03:24Z"
     },
     {
       "file": "smarterfarmers-1.21-2.2.4-fabric.jar",
       "sha1": "04915cb072a844ba581724b5507ab08fe6f8aa3a",
       "size": 67288,
       "side": "both",
-      "stamp": "2026-10-06T15:17:18Z"
+      "stamp": "2026-10-06T18:03:25Z"
     },
     {
       "file": "smoothchunk-fabric-1.21-4.1.jar",
       "sha1": "b367bd9aa8709c09bb26662aeefd0d8bc871d3f5",
       "size": 13769,
       "side": "both",
-      "stamp": "2026-10-06T15:17:18Z"
+      "stamp": "2026-10-06T18:03:25Z"
     },
     {
-      "file": "sodium-fabric-0.6.5+mc1.21.1.jar",
-      "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
-      "size": 1289453,
+      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+      "size": 1297761,
       "side": "both",
-      "stamp": "2026-10-06T15:56:29Z"
+      "stamp": "2026-10-06T18:03:43Z"
     },
     {
       "file": "sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
       "sha1": "11bff7127c2d01a97c931cda6012c8d2c3e1f39f",
       "size": 899434,
       "side": "both",
-      "stamp": "2026-10-06T15:43:35Z"
+      "stamp": "2026-10-06T18:03:33Z"
     },
     {
       "file": "sodiumextras-fabric-1.0.8-1.21.1.jar",
       "sha1": "4cf42ca95c94491d0af73aa443d17fca29ad83c0",
       "size": 876916,
       "side": "both",
-      "stamp": "2026-10-06T15:43:32Z"
+      "stamp": "2026-10-06T18:03:37Z"
     },
     {
       "file": "sodiumleafculling-fabric-1.0.1-1.21.1.jar",
       "sha1": "792d25eab5876b3cd0d3b2b3e7b93d3d3a65836a",
       "size": 299711,
       "side": "both",
-      "stamp": "2026-10-06T15:43:33Z"
+      "stamp": "2026-10-06T18:03:46Z"
     },
     {
       "file": "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
       "sha1": "ca8c29ad2481ab5fe81095181541d183fa7faf19",
       "size": 903592,
       "side": "both",
-      "stamp": "2026-10-06T15:43:34Z"
+      "stamp": "2026-10-06T18:03:55Z"
     },
     {
       "file": "sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar",
       "sha1": "0352c5c05fb9968476a736713a46941b682f3bbe",
       "size": 851457,
       "side": "both",
-      "stamp": "2026-10-06T15:43:36Z"
+      "stamp": "2026-10-06T18:04:01Z"
     },
     {
       "file": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
       "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0",
       "size": 205671,
       "side": "both",
-      "stamp": "2026-10-06T15:17:25Z"
+      "stamp": "2026-10-06T18:04:03Z"
     },
     {
       "file": "spark-1.10.109-fabric.jar",
       "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
       "size": 3609981,
       "side": "both",
-      "stamp": "2026-10-06T15:17:29Z"
+      "stamp": "2026-10-06T18:04:24Z"
     },
     {
       "file": "sparsestructures-fabric-1.21.1-3.0.jar",
       "sha1": "466979ea3e8faa1d99dd5b9dee2af993b5286eb5",
       "size": 118526,
       "side": "both",
-      "stamp": "2026-10-06T15:17:29Z"
+      "stamp": "2026-10-06T18:04:26Z"
     },
     {
       "file": "structure_layout_optimizer-fabric-1.0.12.jar",
       "sha1": "2ca2f8650794b271d439fc8cb703ed85f1fde068",
       "size": 62580,
       "side": "both",
-      "stamp": "2026-10-06T15:17:35Z"
+      "stamp": "2026-10-06T18:04:56Z"
     },
     {
       "file": "structureessentials-fabric-1.21-5.0.jar",
       "sha1": "288325cab1dd28bd43ab44a212f25114f04bc4c1",
       "size": 61734,
       "side": "both",
-      "stamp": "2026-10-06T15:17:35Z"
+      "stamp": "2026-10-06T18:04:56Z"
     },
     {
       "file": "supplementaries-fabric-1.21.1-3.6.4.jar",
       "sha1": "0b1843efcc32f348436f8336eabcd1d3c45bd61e",
       "size": 13145453,
       "side": "both",
-      "stamp": "2026-10-06T15:17:50Z"
+      "stamp": "2026-10-06T18:06:45Z"
     },
     {
       "file": "takesapillage-fabric-1.0.10+mc1.21.1.jar",
       "sha1": "0ab191e7977eb6777e8f0449544e09a3064e02c9",
       "size": 3297576,
       "side": "both",
-      "stamp": "2026-10-06T15:17:53Z"
+      "stamp": "2026-10-06T18:07:08Z"
     },
     {
       "file": "tcdcommons-3.12.7+fabric-1.21.jar",
       "sha1": "e69155938134ad13b9d37706865f01babc7a0861",
       "size": 912896,
       "side": "both",
-      "stamp": "2026-10-06T15:17:54Z"
+      "stamp": "2026-10-06T18:07:17Z"
     },
     {
       "file": "the_bumblezone-7.13.2+1.21.1-fabric.jar",
       "sha1": "eba2fb5262cc2baf37fff15f9141efe370b763a7",
       "size": 69560461,
       "side": "both",
-      "stamp": "2026-10-06T15:18:24Z"
+      "stamp": "2026-10-06T18:14:39Z"
     },
     {
       "file": "thermoo-4.8.0.jar",
       "sha1": "e5d41d01f185a6e380f17d96032fe9c4ecdd76db",
       "size": 275602,
       "side": "both",
-      "stamp": "2026-10-06T15:18:25Z"
+      "stamp": "2026-10-06T18:14:42Z"
     },
     {
       "file": "thermoo-patches-3.7.2.jar",
       "sha1": "42e2055549fcc95442ae8974e1ffdbeeb5c001df",
       "size": 273766,
       "side": "both",
-      "stamp": "2026-10-06T15:18:25Z"
+      "stamp": "2026-10-06T18:14:45Z"
     },
     {
       "file": "toms_storage_fabric-1.21-2.3.0.jar",
       "sha1": "3f851ab4ba33b0efca0a03f3aa92a266415f5a87",
       "size": 1962781,
       "side": "both",
-      "stamp": "2026-10-06T15:18:26Z"
+      "stamp": "2026-10-06T18:15:01Z"
     },
     {
       "file": "trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
       "size": 272944,
       "side": "both",
-      "stamp": "2026-10-06T15:18:27Z"
+      "stamp": "2026-10-06T18:15:05Z"
     },
     {
       "file": "txnilib-fabric-1.0.24-1.21.1.jar",
       "sha1": "95bd43012b414ce13efaba4b2fbd73dcd8951775",
       "size": 1303092,
       "side": "both",
-      "stamp": "2026-10-06T15:18:27Z"
+      "stamp": "2026-10-06T18:15:16Z"
     },
     {
       "file": "u_desert-2.0.3+mc1.21-1.21.11.jar",
       "sha1": "be967884956d4d9e9dfc1fade20495571c5a6007",
       "size": 503024,
       "side": "both",
-      "stamp": "2026-10-06T15:18:28Z"
+      "stamp": "2026-10-06T18:15:20Z"
     },
     {
       "file": "u_framework-1.1.0+mc1.21.jar",
       "sha1": "0313218efd0e3d0ff6717ee37e316110d84cb027",
       "size": 492913,
       "side": "both",
-      "stamp": "2026-10-06T15:18:28Z"
+      "stamp": "2026-10-06T18:15:25Z"
     },
     {
       "file": "underlay-1.0.1-fabric-mc1.21.jar",
       "sha1": "0f510f7388fc0a69cd8ebbf439c4fa94664504e5",
       "size": 282917,
       "side": "both",
-      "stamp": "2026-10-06T15:18:29Z"
+      "stamp": "2026-10-06T18:15:28Z"
     },
     {
       "file": "underwater-swim-fix-1.0.2.jar",
       "sha1": "57532a31c673675c40878f4d057ed4ef5fc36477",
       "size": 13132,
       "side": "both",
-      "stamp": "2026-10-06T15:18:29Z"
+      "stamp": "2026-10-06T18:15:29Z"
     },
     {
       "file": "vanillin-fabric-1.21.1-1.1.3.jar",
       "sha1": "af4f8fd13c90d14e8355ce1e38844320ad62f036",
       "size": 872000,
       "side": "both",
-      "stamp": "2026-10-06T15:18:37Z"
+      "stamp": "2026-10-06T18:19:04Z"
     },
     {
       "file": "variantcraftingtables-7.1.jar",
       "sha1": "9b1cc7cf40d59b8d0aac01900ba02d89af9c2eed",
       "size": 413774,
       "side": "both",
-      "stamp": "2026-10-06T15:18:37Z"
+      "stamp": "2026-10-06T18:19:07Z"
     },
     {
       "file": "variantsandventures-fabric-1.0.24+mc1.21.1.jar",
       "sha1": "ad5b356575de0266bfc7bc4265b03cc68581003d",
       "size": 1089660,
       "side": "both",
-      "stamp": "2026-10-06T15:18:38Z"
+      "stamp": "2026-10-06T18:19:17Z"
     },
     {
       "file": "veinmining-fabric-5.0.0-beta+1.21.jar",
       "sha1": "ae95f354d74bfcb972a8e9b1b81b1d829bc5161a",
       "size": 606425,
       "side": "both",
-      "stamp": "2026-10-06T15:18:38Z"
+      "stamp": "2026-10-06T18:19:22Z"
     },
     {
       "file": "villagernames-1.21-4.5.4.jar",
       "sha1": "9c03df4a71cba0a7f2a99aefd405971f85144c66",
       "size": 1682954,
       "side": "both",
-      "stamp": "2026-10-06T15:18:40Z"
+      "stamp": "2026-10-06T18:19:37Z"
     },
     {
       "file": "villagesandpillages-fabric-mc1.21.1-1.0.3.jar",
       "sha1": "86aa61d01ea39e4ac924b66624c340c2b9baddde",
       "size": 239268,
       "side": "both",
-      "stamp": "2026-10-06T15:18:40Z"
+      "stamp": "2026-10-06T18:19:39Z"
     },
     {
       "file": "voidz-1.0.11.jar",
       "sha1": "cb32e02887b1c7a37b3154d7dec5073a2e42c4a8",
       "size": 66016,
       "side": "both",
-      "stamp": "2026-10-06T15:18:41Z"
+      "stamp": "2026-10-06T18:19:41Z"
     },
     {
       "file": "wakes-0.4.1+1.21.1.jar",
       "sha1": "c4f4d09a4b9362bcc952f370ce8c8b44d662dc42",
       "size": 268435,
       "side": "both",
-      "stamp": "2026-10-06T15:18:42Z"
+      "stamp": "2026-10-06T18:19:44Z"
     },
     {
       "file": "watut-fabric-1.21.0-1.2.7.jar",
       "sha1": "31d06c335b9a3a9fd649e8f4518aaf5a65630f57",
       "size": 839492,
       "side": "both",
-      "stamp": "2026-10-06T15:18:42Z"
+      "stamp": "2026-10-06T18:19:52Z"
     },
     {
       "file": "wither_spawn_fix-MC1.21-1.0.0.jar",
       "sha1": "dbcb2df9d248ce7a1ff4f45f67ccc6a2dbe12d31",
       "size": 11572,
       "side": "both",
-      "stamp": "2026-10-06T15:18:43Z"
+      "stamp": "2026-10-06T18:19:52Z"
     },
     {
       "file": "worldplaytime-1.2.2-1.21-FABRIC.jar",
       "sha1": "4e0e1754a98384e3e9bde9d9bef97bd8aaf3cd8b",
       "size": 82286,
       "side": "both",
-      "stamp": "2026-10-06T15:18:43Z"
+      "stamp": "2026-10-06T18:19:54Z"
     },
     {
       "file": "worldweaver-21.0.13.jar",
       "sha1": "01e7196395386bbddc3ff7d47fe37869a850cecd",
       "size": 2364215,
       "side": "both",
-      "stamp": "2026-10-06T15:18:44Z"
+      "stamp": "2026-10-06T18:20:12Z"
     },
     {
       "file": "wraith-waystones-3.3.4+mc1.21.1.jar",
       "sha1": "9e9caa7187a37a76a75ee442c75ad9f3886f4e80",
       "size": 445684,
       "side": "both",
-      "stamp": "2026-10-06T15:18:45Z"
+      "stamp": "2026-10-06T18:20:16Z"
     },
     {
       "file": "wunderlib-21.0.8.jar",
       "sha1": "ad8c66609db363765855983f0e7f3b655ed0cc64",
       "size": 384385,
       "side": "both",
-      "stamp": "2026-10-06T15:18:45Z"
+      "stamp": "2026-10-06T18:20:20Z"
     },
     {
       "file": "xaerominimap-fabric-1.21.1-25.3.12.jar",
       "sha1": "04436f3e586f1cf5b6cee6258b7cb4b78b83f871",
       "size": 2177981,
       "side": "both",
-      "stamp": "2026-10-06T15:18:46Z"
+      "stamp": "2026-10-06T18:20:37Z"
     },
     {
       "file": "xaeroworldmap-fabric-1.21.1-1.40.16.jar",
       "sha1": "778412af12e2953356d5abbe94a3dde92b310134",
       "size": 1415109,
       "side": "both",
-      "stamp": "2026-10-06T15:18:50Z"
+      "stamp": "2026-10-06T18:21:37Z"
     },
     {
       "file": "xp_storage-1.6+1.21.jar",
       "sha1": "6a3acb4474734f4c450bec894a95ae284f2667b3",
       "size": 1219384,
       "side": "both",
-      "stamp": "2026-10-06T15:18:51Z"
+      "stamp": "2026-10-06T18:21:45Z"
     },
     {
       "file": "xpstorage_trinkets-1.0.2+1.21.jar",
       "sha1": "78ec001bbb45ae4c2c3fcf9accba2fa29ae7bedb",
       "size": 56706,
       "side": "both",
-      "stamp": "2026-10-06T15:18:51Z"
+      "stamp": "2026-10-06T18:21:46Z"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+      "size": 1131265,
+      "side": "both",
+      "stamp": "2026-10-06T18:21:57Z"
     },
     {
       "file": "your-reputation-0.2.9+jade.1.21.1.jar",
       "sha1": "81effe80cd7f8a5c6424be9cd2ed90b01476245c",
       "size": 39175,
       "side": "both",
-      "stamp": "2026-10-06T15:19:56Z"
+      "stamp": "2026-10-06T18:22:04Z"
     },
     {
       "file": "youre-in-grave-danger-fabric-2.4.18.jar",
       "sha1": "d02230f473aecbd128c4dea45eda4c0603a6f390",
       "size": 831659,
       "side": "both",
-      "stamp": "2026-10-06T15:19:56Z"
+      "stamp": "2026-10-06T18:22:04Z"
     },
     {
       "file": "zombieimprovements-1.2.0+1.21.1-fabric.jar",
       "sha1": "ffa58c686a67f67d41ceccc768b0cfa2244a69fe",
       "size": 145155,
       "side": "both",
-      "stamp": "2026-10-06T15:20:04Z"
+      "stamp": "2026-10-06T18:23:07Z"
     }
   ]
 }
