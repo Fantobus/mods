@@ -1245,25 +1245,25 @@
       "stamp": "2026-10-06T17:45:24Z"
     },
     {
-      "file": "entity_model_features_1.21-fabric-3.0.1.jar",
-      "sha1": "ebbb0bbfd426906c426b6c896c70d18644e2a5e9",
-      "size": 471488,
+      "file": "entity_model_features-3.3.11-1.21-fabric.jar",
+      "sha1": "484d51ba5c1efcfb511e2f8db7c0974e66d594fb",
+      "size": 652846,
       "side": "both",
-      "stamp": "2026-10-06T17:45:27Z"
+      "stamp": "2026-10-07T10:38:03Z"
     },
     {
-      "file": "entity_texture_features_1.21-fabric-7.0.2.jar",
-      "sha1": "7c595765bd95f9bc4edbbef5070637f568e68924",
-      "size": 697674,
+      "file": "entity_texture_features-7.2.5-1.21-fabric.jar",
+      "sha1": "726958e34edf7b424d7254d73d214caeedd15737",
+      "size": 799948,
       "side": "both",
-      "stamp": "2026-10-06T17:45:32Z"
+      "stamp": "2026-10-07T10:38:02Z"
     },
     {
-      "file": "entityculling-fabric-1.10.1-mc1.21.1.jar",
-      "sha1": "6f7234ec1d50f563def59ab05ab44f62c119016b",
-      "size": 1574328,
+      "file": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58",
+      "size": 1510018,
       "side": "both",
-      "stamp": "2026-10-06T17:45:39Z"
+      "stamp": "2026-10-07T10:38:01Z"
     },
     {
       "file": "explorations-fabric-1.21.1-1.6.2.jar",
