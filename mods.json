@@ -321,6 +321,13 @@
       "stamp": "2026-10-06T17:52:39Z"
     },
     {
+      "file": "HMI-4.3-1.21.1.jar",
+      "sha1": "19ff289fa00d338092458265f3ed24a92a9ada5f",
+      "size": 105906,
+      "side": "both",
+      "stamp": "2026-10-07T10:45:08Z"
+    },
+    {
       "file": "Hearths.v1.0.5.mod.jar",
       "sha1": "7d1d4be3c3033b7df902b51915f37f53d60718b5",
       "size": 334560,
