@@ -2,9 +2,6 @@ name: Update manifest
 on:
   workflow_dispatch:
   release:
-    types: [published, edited]
-  schedule:
-    - cron: "*/60 * * * *"
 permissions:
   contents: write
 jobs:
