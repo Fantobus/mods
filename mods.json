@@ -251,13 +251,6 @@
       "stamp": "2026-10-06T17:46:22Z"
     },
     {
-      "file": "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar",
-      "sha1": "b1fc5eb98ad63fba6d4594035964471925b3154f",
-      "size": 2827550,
-      "side": "both",
-      "stamp": "2026-10-06T17:46:30Z"
-    },
-    {
       "file": "Explorify.v1.6.4.f15-88.mod.jar",
       "sha1": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
       "size": 951495,
@@ -1252,11 +1245,32 @@
       "stamp": "2026-10-06T17:45:24Z"
     },
     {
+      "file": "entity_model_features-3.3.11-1.21-fabric.jar",
+      "sha1": "484d51ba5c1efcfb511e2f8db7c0974e66d594fb",
+      "size": 652846,
+      "side": "both",
+      "stamp": "2026-10-08T17:42:01Z"
+    },
+    {
+      "file": "entity_texture_features-7.2.5-1.21-fabric.jar",
+      "sha1": "726958e34edf7b424d7254d73d214caeedd15737",
+      "size": 799948,
+      "side": "both",
+      "stamp": "2026-10-08T17:42:00Z"
+    },
+    {
       "file": "entityculling-fabric-1.11.2-mc1.21.1.jar",
       "sha1": "c400f3fb5f8668f99cdb52b5d4f92d11b4e3edf1",
       "size": 1519213,
       "side": "both",
       "stamp": "2026-10-07T15:51:03Z"
+    },
+    {
+      "file": "euphoriapatcher-1.10.5-r5.9.3-fabric.jar",
+      "sha1": "3e2d5b02476337413fb1afba9bf74f9383338daf",
+      "size": 4602936,
+      "side": "both",
+      "stamp": "2026-10-08T17:56:57Z"
     },
     {
       "file": "explorations-fabric-1.21.1-1.6.2.jar",
