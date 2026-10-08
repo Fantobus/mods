@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - run: python3 tools/generate_release.py mods .jar mods.json Fantobus/mods files
+      run: python3 tools/generate_config.py Fantobus/mods files config.zip configs.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
