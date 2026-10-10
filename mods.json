@@ -90,6 +90,13 @@
       "stamp": "2026-10-06T17:35:31Z"
     },
     {
+      "file": "BetterWorldLoading-1.1.jar",
+      "sha1": "481f0ca67d7ec73b4a4961f0ca6dec663af11658",
+      "size": 116392,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:42Z"
+    },
+    {
       "file": "BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar",
       "sha1": "04730c4c3f06d867d571a39c76b9de55cd7a62d6",
       "size": 22349734,
@@ -1210,6 +1217,13 @@
       "stamp": "2026-10-06T17:44:16Z"
     },
     {
+      "file": "drippyloadingscreen_fabric_3.1.2_MC_1.21.1.jar",
+      "sha1": "4b0e76bdb6978e896923aed0421a91d16c1158fb",
+      "size": 281831,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:41Z"
+    },
+    {
       "file": "dummmmmmy-1.21-2.0.12-fabric.jar",
       "sha1": "898c480f7c511af88967c9ddd99d0f4bef0bf216",
       "size": 212579,
@@ -1313,6 +1327,13 @@
       "size": 1039882,
       "side": "both",
       "stamp": "2026-10-06T17:47:41Z"
+    },
+    {
+      "file": "fancymenu_fabric_3.9.0_MC_1.21.1.jar",
+      "sha1": "6d9214fdb7e23d26ff90bf81f8f2be3cb52f954e",
+      "size": 25810707,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:39Z"
     },
     {
       "file": "farmers-cutting-biomes-o-plenty-1.21-2.0.0-fabric.jar",
@@ -1560,6 +1581,13 @@
       "stamp": "2026-10-06T17:54:19Z"
     },
     {
+      "file": "immersivetips-fabric-1.0.1-1.21.1.jar",
+      "sha1": "3e7a5698d5eee65b51d53c12eb76f422081063be",
+      "size": 947768,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:36Z"
+    },
+    {
       "file": "improved-village-placement-1.1.2.jar",
       "sha1": "5225cdd0f18cabd290551ca93125dbdceb7a7755",
       "size": 34332,
@@ -1623,6 +1651,13 @@
       "stamp": "2026-10-06T17:55:03Z"
     },
     {
+      "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+      "size": 786695,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:40Z"
+    },
+    {
       "file": "krypton-0.2.8.jar",
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
       "size": 161045,
@@ -1663,6 +1698,13 @@
       "size": 78180,
       "side": "both",
       "stamp": "2026-10-06T17:55:25Z"
+    },
+    {
+      "file": "loadingprotection-1.0.2-fabric-1.21.1.jar",
+      "sha1": "b3b0f65dab6534ec2a18a5754805080f3916ddf7",
+      "size": 21288,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:42Z"
     },
     {
       "file": "logbegone-fabric-1.21.1-1.0.3.jar",
@@ -1733,6 +1775,13 @@
       "size": 35537,
       "side": "both",
       "stamp": "2026-10-06T17:55:52Z"
+    },
+    {
+      "file": "melody_fabric_1.0.10_MC_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+      "size": 188035,
+      "side": "both",
+      "stamp": "2026-10-10T16:16:41Z"
     },
     {
       "file": "memorysettings-fabric-1.21-6.0.jar",
