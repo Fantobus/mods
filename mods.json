@@ -1980,6 +1980,13 @@
       "stamp": "2026-10-06T18:01:34Z"
     },
     {
+      "file": "polytone-1.21-4.5.0-fabric.jar",
+      "sha1": "1efca49baa0aea7f4799139e4242da8e24154e54",
+      "size": 1644516,
+      "side": "both",
+      "stamp": "2026-10-10T17:12:01Z"
+    },
+    {
       "file": "powerfix-1.0.0+1.21.jar",
       "sha1": "7edcc5355eb7af445befc1e6107466f9a112a776",
       "size": 9189,
