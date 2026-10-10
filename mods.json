@@ -1560,6 +1560,13 @@
       "stamp": "2026-10-06T17:53:50Z"
     },
     {
+      "file": "immersive-portals-6.0.7-mc1.21.1-fabric.jar",
+      "sha1": "1d02e00c0fd2efcb6626b8ac96974db0a8fa32f3",
+      "size": 3121751,
+      "side": "both",
+      "stamp": "2026-10-10T09:25:15Z"
+    },
+    {
       "file": "immersivearmorhud-fabric-1.0.1-1.21.1.jar",
       "sha1": "19ba499259f1a5cd6a21d934513278b0164c053e",
       "size": 999331,
@@ -1616,11 +1623,11 @@
       "stamp": "2026-10-06T17:54:25Z"
     },
     {
-      "file": "iris-fabric-1.8.8+mc1.21.1.jar",
-      "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
-      "size": 2690177,
+      "file": "iris-fabric-1.8.1+mc1.21.1.jar",
+      "sha1": "292dd61803e8e7c0f18db77a11b1aaaaa6b07ccc",
+      "size": 2677842,
       "side": "both",
-      "stamp": "2026-10-08T18:24:18Z"
+      "stamp": "2026-10-10T09:25:16Z"
     },
     {
       "file": "jamlib-fabric-1.3.6+1.21.1.jar",
@@ -2127,11 +2134,11 @@
       "stamp": "2026-10-06T18:03:25Z"
     },
     {
-      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
-      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
-      "size": 1297761,
+      "file": "sodium-fabric-0.6.7+mc1.21.1.jar",
+      "sha1": "48287c010aa75817b23334ef964c30d37a90f2e0",
+      "size": 1293429,
       "side": "both",
-      "stamp": "2026-10-08T18:24:18Z"
+      "stamp": "2026-10-10T09:25:14Z"
     },
     {
       "file": "sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
