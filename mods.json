@@ -1,6 +1,6 @@
 {
   "type": "mods",
-  "minecraft": "1.21.1",
+  "minecraft": "1.19.2",
   "baseUrl": "https://github.com/Fantobus/mods/releases/download/files/",
   "mode": "strict",
   "allowedExtra": [],
