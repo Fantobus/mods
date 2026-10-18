@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "url": "https://github.com/Fantobus/mods/releases/download/launcher-1.0.0/IDK2DLauncher-Setup.exe",
-  "sha256": "d81ac859a61e4666443f5552a314806c2f684a20c791603b361ad551bd971085",
+  "sha256": "b42473a51514b8e37fc8e80d92af0fef6d12191d46fe8c228609ef03dcd79132",
   "mandatory": true,
   "notes": "Виправленно помилку Fabric, зміненно версію гри з 1.21.1 на 1.19.2, зробленно автооновлення лаунчера тепер він буде сам перевіряти свою версію та зміни в коді"
 }
