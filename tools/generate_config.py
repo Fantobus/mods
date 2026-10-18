@@ -40,7 +40,7 @@ else:
             h.update(chunk)
     sha1 = h.hexdigest()
 
-mc = "1.21.1"
+mc = "1.19.2"
 if os.path.exists("mods.json"):
     with open("mods.json", encoding="utf-8-sig") as f:
         mc = json.load(f).get("minecraft", mc)
