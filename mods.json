@@ -937,6 +937,13 @@
       "stamp": "2026-10-18T17:19:38Z"
     },
     {
+      "file": "coroutil-fabric-1.19.2-1.3.6.jar",
+      "sha1": "d71ccb77d9f3b0f93cfcdc59642960921f37c411",
+      "size": 2373071,
+      "side": "both",
+      "stamp": "2026-10-19T13:06:27Z"
+    },
+    {
       "file": "crawl-0.11.1.jar",
       "sha1": "2f3735bc2287aacc8c1036e66095bb30c79ea95e",
       "size": 98889,
