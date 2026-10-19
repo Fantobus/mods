@@ -1147,6 +1147,13 @@
       "stamp": "2026-10-18T17:20:37Z"
     },
     {
+      "file": "exposure-1.19.2-1.6.0-fabric.jar",
+      "sha1": "344928d239c60f777011e57da4d8dd32e8419342",
+      "size": 1034608,
+      "side": "both",
+      "stamp": "2026-10-19T10:32:45Z"
+    },
+    {
       "file": "extrasounds-2.3.1+1.19.2-1.19.1.jar",
       "sha1": "c43ac9ffe58cbf59b90eeb4be1a6aad40ebbfbfd",
       "size": 289314,
