@@ -1245,13 +1245,6 @@
       "stamp": "2026-10-18T17:20:57Z"
     },
     {
-      "file": "firstperson-fabric-2.7.3-mc1.19.2.jar",
-      "sha1": "712cff467743e6bc6b483ae3d86454650e8c88de",
-      "size": 1537948,
-      "side": "both",
-      "stamp": "2026-10-18T17:20:58Z"
-    },
-    {
       "file": "fixmifleaks-0.1.1.jar",
       "sha1": "d4f8019320ff8a47cec9bda7854b92b2898d8139",
       "size": 184736,
@@ -1474,6 +1467,13 @@
       "size": 558830,
       "side": "both",
       "stamp": "2026-10-18T17:22:17Z"
+    },
+    {
+      "file": "lazy-ai-1.6.1-1.19.4.jar",
+      "sha1": "92eb4f50746e2e86c16bd0f542ffed1ec4269b6b",
+      "size": 648282,
+      "side": "both",
+      "stamp": "2026-10-23T14:24:29Z"
     },
     {
       "file": "lazydfu-0.1.3.jar",
@@ -1987,13 +1987,6 @@
       "stamp": "2026-10-18T17:25:33Z"
     },
     {
-      "file": "redirector-1.19.2-3.4.0-fabric.jar",
-      "sha1": "bf9e7ac04dc694456dda3f81e97bda2a2a0644ef",
-      "size": 150646,
-      "side": "both",
-      "stamp": "2026-10-18T17:25:33Z"
-    },
-    {
       "file": "reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar",
       "sha1": "b3e82b1a9a226575dff81690559281d02e417e23",
       "size": 68471,
@@ -2118,6 +2111,13 @@
       "size": 2192389,
       "side": "both",
       "stamp": "2026-10-18T17:26:44Z"
+    },
+    {
+      "file": "smart_particles-mc1.19.2-00.82.10.jar",
+      "sha1": "58bfaef21a5756936aad9d7463eaad89f1a370bb",
+      "size": 50304,
+      "side": "both",
+      "stamp": "2026-10-23T14:24:13Z"
     },
     {
       "file": "smoothboot-fabric-1.19-1.7.1.jar",
