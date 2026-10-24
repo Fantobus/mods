@@ -944,6 +944,20 @@
       "stamp": "2026-10-18T17:19:41Z"
     },
     {
+      "file": "create-fabric-0.5.1-i-build.1630+mc1.19.2.jar",
+      "sha1": "fe63f9afa5fc7c058156bfe8c3e9c883af803ad8",
+      "size": 22186096,
+      "side": "both",
+      "stamp": "2026-10-24T16:10:38Z"
+    },
+    {
+      "file": "createaddition-fabric+1.19.2-1.2.3.jar",
+      "sha1": "5001acc0a5a3ac9a2a0e3a9eb30bb40a6e05cf0c",
+      "size": 1632213,
+      "side": "both",
+      "stamp": "2026-10-24T16:08:15Z"
+    },
+    {
       "file": "creeperoverhaul-2.0.9-fabric.jar",
       "sha1": "ab7f040a7da2428319e45f8958952943262ef73b",
       "size": 1099687,
