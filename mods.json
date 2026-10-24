@@ -1372,10 +1372,10 @@
     },
     {
       "file": "immersive-portals-2.3.2-mc1.19.2-fabric.jar",
-      "sha1": "bea99baf67a9084409bdb72ba53c961fd1babd9f",
-      "size": 2566298,
+      "sha1": "decae8a8a8684ef74f15d5caacb3b2795911bee7",
+      "size": 2566248,
       "side": "both",
-      "stamp": "2026-10-23T14:02:20Z"
+      "stamp": "2026-10-24T11:19:59Z"
     },
     {
       "file": "indium-1.0.9+mc1.19.2.jar",
@@ -1385,11 +1385,11 @@
       "stamp": "2026-10-18T17:21:53Z"
     },
     {
-      "file": "iris-mc1.19.2-1.4.1.jar",
-      "sha1": "d121f046fe65f4caa8d86249b82791717c646e3c",
-      "size": 2608736,
+      "file": "iris-mc1.19.2-1.6.11.jar",
+      "sha1": "90d8f8c0a209373dfc300deb03c0d2d9bd309b8a",
+      "size": 2852109,
       "side": "both",
-      "stamp": "2026-10-18T17:22:02Z"
+      "stamp": "2026-10-24T11:19:54Z"
     },
     {
       "file": "item-filters-fabric-1902.2.9-build.51.jar",
