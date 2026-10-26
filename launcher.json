@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/Fantobus/mods/releases/download/launcher-1.0.2/IDK2DLauncher-Setup.exe",
-  "sha256": "092f1f8528d58380f6ad99e4808f921236ecd817164b8e8d1225bc1b46bf306e",
+  "sha256": "bbd893e6681ba7e167a8564f97add05f8633fa802c62361b43659869fba046cc",
   "mandatory": true,
-  "notes": "Виправленно помилку зберігання прогресу в персональних свтіах та на сервері"
+  "notes": "Виправленно помилку зберігання прогресу в персональних свтіах та на сервері, Виправленно перезапис налаштування шейдерів"
 }
