@@ -202,6 +202,13 @@
       "stamp": "2026-10-18T17:20:36Z"
     },
     {
+      "file": "Expanded-Storage-Mod-Fabric-1.19.2.jar",
+      "sha1": "16b6a770ffd859bb3a287f9e7e3d5a642771cc6b",
+      "size": 783833,
+      "side": "both",
+      "stamp": "2026-11-21T10:48:27Z"
+    },
+    {
       "file": "ExplorersCompass-1.19.2-2.2.0-fabric.jar",
       "sha1": "ddb21231caa052f2ef5618366ca7e7242c751e4d",
       "size": 169091,
@@ -270,6 +277,13 @@
       "size": 314903,
       "side": "both",
       "stamp": "2026-10-18T17:21:45Z"
+    },
+    {
+      "file": "IPN-Rejects-fabric-1.19-1.0.8.jar",
+      "sha1": "483ca9399b0007b1316900075d5c52af991eafc2",
+      "size": 154124,
+      "side": "both",
+      "stamp": "2026-11-21T10:47:05Z"
     },
     {
       "file": "Iceberg-1.19.1-fabric-1.0.46.jar",
@@ -405,6 +419,13 @@
       "stamp": "2026-10-18T17:25:04Z"
     },
     {
+      "file": "PresenceFootsteps-1.6.4.jar",
+      "sha1": "ca03578ac0ce30c50c9b644babe2db1c7125c669",
+      "size": 7221534,
+      "side": "both",
+      "stamp": "2026-11-21T10:44:20Z"
+    },
+    {
       "file": "Prism-1.19.2-fabric-1.0.3.jar",
       "sha1": "21ff90e99c357f407cf170d36bc5387e01d88706",
       "size": 57198,
@@ -480,6 +501,13 @@
       "size": 31457,
       "side": "both",
       "stamp": "2026-10-18T17:29:08Z"
+    },
+    {
+      "file": "TheOrcs-1.0-fabric-1.19.2.jar",
+      "sha1": "6d2efb707a671c10f1bfb72ab06313115c872a32",
+      "size": 625840,
+      "side": "both",
+      "stamp": "2026-11-21T10:40:48Z"
     },
     {
       "file": "ToolStats-Fabric-1.19.2-12.1.6.jar",
@@ -797,6 +825,13 @@
       "stamp": "2026-10-18T17:16:54Z"
     },
     {
+      "file": "bobby-4.0.1.jar",
+      "sha1": "3f7be87e0416ec055498324f6a5d896cdb07c589",
+      "size": 786939,
+      "side": "both",
+      "stamp": "2026-11-21T10:51:51Z"
+    },
+    {
       "file": "botarium-fabric-1.19.2-1.9.2.jar",
       "sha1": "df8a7cc20ef0f393a7c8acc163d7870079d71bcd",
       "size": 292388,
@@ -1012,6 +1047,13 @@
       "size": 622932,
       "side": "both",
       "stamp": "2026-10-18T17:20:02Z"
+    },
+    {
+      "file": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+      "sha1": "602c778f113e0d103756671d9f5a517b8c782220",
+      "size": 324029,
+      "side": "both",
+      "stamp": "2026-11-21T10:50:44Z"
     },
     {
       "file": "dragonfight-fabric-1.19.2-4.5.jar",
@@ -1546,6 +1588,13 @@
       "stamp": "2026-10-18T17:22:29Z"
     },
     {
+      "file": "lostidols-1.19.2-fabric-1.0.0.jar",
+      "sha1": "34bf345722087508fb6e65616288cbe86c05d06a",
+      "size": 248879,
+      "side": "both",
+      "stamp": "2026-11-21T10:45:48Z"
+    },
+    {
       "file": "lukis-woodland-mansions-v1.0-1.19-1.19.4.jar",
       "sha1": "45d86ba0094bf0363b2be5cb22adb823a77399e4",
       "size": 1452896,
@@ -1826,6 +1875,13 @@
       "stamp": "2026-10-18T17:24:41Z"
     },
     {
+      "file": "nicer-skies-1.3.0+1.19.2.jar",
+      "sha1": "93bedcb5418613e014cd401d584a3d71e5e20623",
+      "size": 131307,
+      "side": "both",
+      "stamp": "2026-11-21T10:45:04Z"
+    },
+    {
       "file": "nightlights-fabric-1.19.2-1.1.jar",
       "sha1": "e4a1817d06bd0db847eff2e2763b53a386a27d7c",
       "size": 418552,
@@ -2069,6 +2125,13 @@
       "size": 409073,
       "side": "both",
       "stamp": "2026-10-18T17:25:53Z"
+    },
+    {
+      "file": "scout-1.19.2-1.1.2.jar",
+      "sha1": "5f0a1b5418f0f16b9d66eb8ae832291371d321b5",
+      "size": 265206,
+      "side": "both",
+      "stamp": "2026-11-21T10:43:40Z"
     },
     {
       "file": "shulkerboxtooltip-fabric-3.2.2+1.19.2.jar",
@@ -2425,14 +2488,14 @@
       "sha1": "7226b62dd3e54df9e2c389fc8ae9414e13cd161c",
       "size": 2205107,
       "side": "both",
-      "stamp": "2026-10-18T17:29:46Z"
+      "stamp": "2026-11-21T10:52:59Z"
     },
     {
       "file": "xaeroworldmap-fabric-1.19.2-1.44.2.jar",
       "sha1": "5dad790ee7e830fcb0d1d57e824cc1c6f260916b",
       "size": 1422830,
       "side": "both",
-      "stamp": "2026-10-18T17:29:49Z"
+      "stamp": "2026-11-21T10:52:57Z"
     },
     {
       "file": "xp_obelisk-0.4.9-r+1.19.2-Fabric.jar",
