@@ -1231,6 +1231,13 @@
       "stamp": "2026-10-18T17:20:47Z"
     },
     {
+      "file": "fabrictailor-2.0.1.jar",
+      "sha1": "9a8b5e66e7b5178278ec8866a55189013e34b4f6",
+      "size": 98920,
+      "side": "both",
+      "stamp": "2026-11-26T12:49:50Z"
+    },
+    {
       "file": "fallenwizardsmod-0.1.3-1.19.2.jar",
       "sha1": "7d77779198a1f58ee82772f0afdf9c0300024173",
       "size": 205931,
@@ -2160,13 +2167,6 @@
       "size": 32230424,
       "side": "both",
       "stamp": "2026-10-18T17:26:40Z"
-    },
-    {
-      "file": "skin-swapper-fabric-3.1.2-1.19.1.jar",
-      "sha1": "87d62cf6967c001607bd650ea73b65a85d66fa4e",
-      "size": 1159915,
-      "side": "both",
-      "stamp": "2026-11-26T12:19:56Z"
     },
     {
       "file": "skinlayers3d-fabric-1.10.2-mc1.19.2.jar",
